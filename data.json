@@ -1,0 +1,5739 @@
+{
+  "donors2024": [
+    {
+      "name": "Susheela Kaaraaje",
+      "kannada": "ಸುಶೀಲಾ ಕಾರಾಜೆ",
+      "amount": 1500,
+      "book": "1-1",
+      "sl": "1",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Rajamma padmashree teacher, Roopakere Nivasa Navoor",
+      "kannada": "ರಾಜಮ್ಮ ಪದ್ಮಶ್ರೀ ಶಿಕ್ಷಕಿ, ರೂಪಕೆರೆ ನಿವಾಸ ನಾವೂರು",
+      "amount": 1000,
+      "book": "1-2",
+      "sl": "2",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "P Babu Poojary BC Road Konaje",
+      "kannada": "ಪಿ ಬಾಬು ಪೂಜಾರಿ ಬಿ.ಸಿ. ರಸ್ತೆ ಕೊಣಾಜೆ",
+      "amount": 2000,
+      "book": "1-3",
+      "sl": "3",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Seetharama Shetty Bollaje, Mahakali Padpu",
+      "kannada": "ಸೀತಾರಾಮ ಶೆಟ್ಟಿ ಬೊಳ್ಳಾಜೆ, ಮಹಾಕಾಳಿ ಪಡ್ಪು",
+      "amount": 10000,
+      "book": "1-4",
+      "sl": "4",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Jagannatha shetty, Baglodi House",
+      "kannada": "ಜಗನ್ನಾಥ ಶೆಟ್ಟಿ, ಬಾಗ್ಲೋಡಿ ಹೌಸ್",
+      "amount": 1000,
+      "book": "1-13",
+      "sl": "13",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Vithala sumathi jakribettu, Mahalakshmi complex",
+      "kannada": "ವಿಠಲ ಸುಮತಿ ಜಕ್ರಿಬೆಟ್ಟು, ಮಹಾಲಕ್ಷ್ಮಿ ಕಾಂಪ್ಲೆಕ್ಸ್",
+      "amount": 1000,
+      "book": "1-14",
+      "sl": "14",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Hariyappa Halegetu",
+      "kannada": "ಹರಿಯಪ್ಪ ಹಳೆಗೇಟು",
+      "amount": 1000,
+      "book": "1-18",
+      "sl": "18",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Hindu yuva sene, bantwala",
+      "kannada": "ಹಿಂದೂ ಯುವ ಸೇನೆ, ಬಂಟ್ವಾಳ",
+      "amount": 1000,
+      "book": "2-33",
+      "sl": "33",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Akshith Navoor",
+      "kannada": "ಅಕ್ಷಿತ್ ನವೂರ್",
+      "amount": 1000,
+      "book": "2-42",
+      "sl": "42",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Chandrahasa Nekkilaaru",
+      "kannada": "ಚಂದ್ರಹಾಸ ನೆಕ್ಕಿಲಾರು",
+      "amount": 1000,
+      "book": "2-50",
+      "sl": "50",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Prashanth Golden jewellers Navoor",
+      "kannada": "ಪ್ರಶಾಂತ್ ಗೋಲ್ಡನ್ ಜ್ಯುವೆಲ್ಲರ್ಸ್ ನಾವೂರು",
+      "amount": 1500,
+      "book": "3-74",
+      "sl": "74",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Mithila dinesh kottary, karikumer",
+      "kannada": "ಮಿಥಿಲಾ ದಿನೇಶ್ ಕೊಟ್ಟಾರಿ, ಕರಿಕುಮೇರ್",
+      "amount": 1000,
+      "book": "4-76",
+      "sl": "76",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Raamanna Gowda, lawyer , B.C.Road",
+      "kannada": "ರಾಮಣ್ಣ ಗೌಡ, ವಕೀಲರು, ಬಿ.ಸಿ.ರೋಡ್",
+      "amount": 1500,
+      "book": "4-77",
+      "sl": "77",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Sukumaara jain, atlottu gutthu",
+      "kannada": "ಸುಕುಮಾರ ಜೈನ್, ಅಟ್ಲೊಟ್ಟು ಗುತ್ತು",
+      "amount": 1000,
+      "book": "4-80",
+      "sl": "80",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Ganapathi shenoy, badthodi and family, Ganapathi Nashya bantwala",
+      "kannada": "ಗಣಪತಿ ಶೆಣೈ, ಬಡ್ತೋಡಿ ಮತ್ತು ಕುಟುಂಬ, ಗಣಪತಿ ನಶ್ಯ ಬಂಟ್ವಾಳ",
+      "amount": 6006,
+      "book": "4-81",
+      "sl": "81",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Udaya bhandary, munnalayi guthu",
+      "kannada": "ಉದಯ ಭಂಡಾರಿ, ಮುನ್ನಲಾಯಿ ಗುತ್ತು",
+      "amount": 1000,
+      "book": "4-85",
+      "sl": "85",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Mahaveera credit co-operative society  , B.C.Road",
+      "kannada": "ಮಹಾವೀರ ಕ್ರೆಡಿಟ್ ಕೋ-ಆಪರೇಟಿವ್ ಸೊಸೈಟಿ, ಬಿ.ಸಿ.ರೋಡ್",
+      "amount": 1000,
+      "book": "4-88",
+      "sl": "88",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Sanathkumar chowta, navoor",
+      "kannada": "ಸನತ್‌ಕುಮಾರ್ ಚೌಟ, ನವೂರ್",
+      "amount": 5000,
+      "book": "4-89",
+      "sl": "89",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Adithya enterprises, bypass,Bantwala",
+      "kannada": "ಆದಿತ್ಯ ಎಂಟರ್‌ಪ್ರೈಸಸ್, ಬೈಪಾಸ್, ಬಂಟ್ವಾಳ",
+      "amount": 2000,
+      "book": "4-90",
+      "sl": "90",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Shree Durga HOME PRODUCTS, Sarapaadi",
+      "kannada": "ಶ್ರೀ ದುರ್ಗಾ ಹೋಮ್ ಪ್ರಾಡಕ್ಟ್ಸ್, ಸರಪಾಡಿ",
+      "amount": 2000,
+      "book": "4-92",
+      "sl": "92",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Krishna Naayak, Koodyibailu",
+      "kannada": "ಕೃಷ್ಣ ನಾಯಕ್, ಕೂಡಿಬೈಲು",
+      "amount": 2100,
+      "book": "4-93",
+      "sl": "93",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Pramod Rai, Kadabettu",
+      "kannada": "ಪ್ರಮೋದ್ ರೈ, ಕಾಡಬೆಟ್ಟು",
+      "amount": 1000,
+      "book": "4-94",
+      "sl": "94",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "K. Vishwanaatha Poojaryi, Vishwajyothi nilaya, Kedige, Paraari",
+      "kannada": "ಕೆ.ವಿಶ್ವನಾಥ ಪೂಜಾರಿ, ವಿಶ್ವಜ್ಯೋತಿ ನಿಲಯ, ಕೇದಿಗೆ, ಪರಾರಿ",
+      "amount": 1000,
+      "book": "5-101",
+      "sl": "101",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "B. Naaraayana rai, Saaketha, atttadadka",
+      "kannada": "ಬಿ.ನಾರಾಯಣ ರೈ, ಸಾಕೇತ, ಅಟ್ಟದಡ್ಕ",
+      "amount": 1100,
+      "book": "5-105",
+      "sl": "105",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Dinesh Kottaryi, Thirtotttu , Shree Lakshmi Pickup",
+      "kannada": "ದಿನೇಶ್ ಕೊಟ್ಟಾರಿ, ತಿರ್ತೊಟ್ಟು , ಶ್ರೀ ಲಕ್ಷ್ಮಿ ಪಿಕಪ್",
+      "amount": 1000,
+      "book": "5-113",
+      "sl": "113",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Seetharama Shetty ,Kukkila",
+      "kannada": "ಸೀತಾರಾಮ ಶೆಟ್ಟಿ , ಕುಕ್ಕಿಲ",
+      "amount": 1000,
+      "book": "5-117",
+      "sl": "117",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Manmathraj Jain, Periyaar guthu",
+      "kannada": "ಮನ್ಮಥರಾಜ್ ಜೈನ್, ಪೆರಿಯಾರ್ ಗುತ್ತು",
+      "amount": 1004,
+      "book": "5-121",
+      "sl": "121",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Shrinivaas shenoy, koodyibailu",
+      "kannada": "ಶ್ರೀನಿವಾಸ ಶೆಣೈ, ಕೂಡಿಬೈಲು",
+      "amount": 1505,
+      "book": "6-134",
+      "sl": "134",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Radhakrishna Shetty, Surathkal",
+      "kannada": "ರಾಧಾಕೃಷ್ಣ ಶೆಟ್ಟಿ, ಸುರತ್ಕಲ್",
+      "amount": 1000,
+      "book": "6-135",
+      "sl": "135",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Raghu Shetty, Paddayooru guthu",
+      "kannada": "ರಘು ಶೆಟ್ಟಿ, ಪಡ್ಡೆಯೂರು ಗುತ್ತು",
+      "amount": 1000,
+      "book": "6-141",
+      "sl": "141",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Akshaya Pushparaj naik, Kellakere, Belthangadi",
+      "kannada": "ಅಕ್ಷಯ ಪುಷ್ಪರಾಜ್ ನಾಯ್ಕ್, ಕೆಲ್ಲಕೆರೆ, ಬೆಳ್ತಂಗಡಿ",
+      "amount": 1000,
+      "book": "6-147",
+      "sl": "147",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Chandana Allipaade",
+      "kannada": "ಚಂದನ ಅಲ್ಲಿಪಾಡೆ",
+      "amount": 1000,
+      "book": "6-149",
+      "sl": "149",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Vasantha Yogini, Thaaripundu Karenki",
+      "kannada": "ವಸಂತ ಯೋಗಿನಿ, ತಾರಿಪುಂಡು ಕರೆಂಕಿ",
+      "amount": 1000,
+      "book": "7-154",
+      "sl": "154",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Sheela Ramesh shiraan rishani , Karikumeru",
+      "kannada": "ಶೀಲಾ ರಮೇಶ್ ಶಿರಾನ್ ರಿಶಾನಿ, ಕರಿಕುಮೇರು",
+      "amount": 1000,
+      "book": "7-163",
+      "sl": "163",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Atharva  Associates, Bantwala",
+      "kannada": "ಅಥರ್ವ ಅಸೋಸಿಯೇಟ್ಸ್, ಬಂಟ್ವಾಳ",
+      "amount": 1000,
+      "book": "7-166",
+      "sl": "166",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Valerian baretto,poopadikatte",
+      "kannada": "ವಲೇರಿಯನ್ ಬರೆಟ್ಟೊ, ಪೂಪಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "8-178",
+      "sl": "178",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Shivaraaya nayak, Nekkilaaru",
+      "kannada": "ಶಿವರಾಯ ನಾಯಕ್, ನೆಕ್ಕಿಲಾರು",
+      "amount": 1000,
+      "book": "8-186",
+      "sl": "186",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Chandrashekhar, Bhraamari studio, allipaade",
+      "kannada": "ಚಂದ್ರಶೇಖರ್, ಭ್ರಾಮರಿ ಸ್ಟುಡಿಯೋ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 1000,
+      "book": "8-200",
+      "sl": "200",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Veekshitha chethan , Moorje, Advocate",
+      "kannada": "ವೀಕ್ಷಿತ ಚೇತನ್, ಮೂರ್ಜೆ, ನ್ಯಾಯವಾದಿ",
+      "amount": 1000,
+      "book": "9-201",
+      "sl": "201",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Gulaabi chandappa nayka , poopadikatte",
+      "kannada": "ಗುಲಾಬಿ ಚಂದಪ್ಪ ನಾಯ್ಕ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "9-203",
+      "sl": "203",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Suresh M, Malabe",
+      "kannada": "ಸುರೇಶ್ ಎಂ, ಮಲಾಬೆ",
+      "amount": 1000,
+      "book": "9-217",
+      "sl": "217",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Sheena Tailor and children",
+      "kannada": "ಶೀನಾ ಟೈಲರ್ ಮತ್ತು ಮಕ್ಕಳು",
+      "amount": 1500,
+      "book": "9-218",
+      "sl": "218",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Premraaj Poonja, Olyaadi",
+      "kannada": "ಪ್ರೇಮರಾಜ್ ಪೂಂಜಾ, ಒಲ್ಯಾಡಿ",
+      "amount": 1000,
+      "book": "9-221",
+      "sl": "221",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Sarojini ,Kedige Paraari",
+      "kannada": "ಸರೋಜಿನಿ , ಕೇದಿಗೆ ಪರಾರಿ",
+      "amount": 1000,
+      "book": "9-223",
+      "sl": "223",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Suhaasini Shetty, Kukkila",
+      "kannada": "ಸುಹಾಸಿನಿ ಶೆಟ್ಟಿ, ಕುಕ್ಕಿಲ",
+      "amount": 4500,
+      "book": "10-226",
+      "sl": "226",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Chandrahaas shetty, ಅಂಡಿಯೂರು",
+      "kannada": "ಚಂದ್ರಹಾಸ ಶೆಟ್ಟಿ, ಅಂಡಿಯೂರು",
+      "amount": 1010,
+      "book": "10-229",
+      "sl": "229",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Mohan Vigneshwara electricals, Sinthanikatte",
+      "kannada": "ಮೋಹನ್ ವಿಘ್ನೇಶ್ವರ ಇಲೆಕ್ಟ್ರಿಕಲ್ಸ್, ಸಿಂತಾನಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "10-236",
+      "sl": "236",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Shashikaanth shetty Aarumudi, Sarapaadi",
+      "kannada": "ಶಶಿಕಾಂತ ಶೆಟ್ಟಿ ಆರುಮುಡಿ, ಸರಪಾಡಿ",
+      "amount": 1000,
+      "book": "10-242",
+      "sl": "242",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Shree Durga jewellers, bantwala",
+      "kannada": "ಶ್ರೀ ದುರ್ಗಾ ಜ್ಯುವೆಲ್ಲರ್ಸ್, ಬಂಟ್ವಾಳ",
+      "amount": 1500,
+      "book": "11-251",
+      "sl": "251",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Shiva Friends,Pakkalabettu",
+      "kannada": "ಶಿವ ಫ್ರೆಂಡ್ಸ್, ಪಕ್ಕಲಬೆಟ್ಟು",
+      "amount": 1500,
+      "book": "11-260",
+      "sl": "260",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "divangatha| Ramesh Acharya, ivara smaranaartha, wife and children",
+      "kannada": "ದಿವಂಗತ| ರಮೇಶ್ ಆಚಾರ್ಯ, ಇವರ ಸ್ಮರಣಾರ್ಥ, ಪತ್ನಿ ಮತ್ತು ಮಕ್ಕಳು",
+      "amount": 1000,
+      "book": "11-264",
+      "sl": "264",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Jithendra salian, Shreya sweets, Manihalla",
+      "kannada": "ಜಿತೇಂದ್ರ ಸಾಲಿಯಾನ್, ಶ್ರೇಯಾ ಸ್ವೀಟ್ಸ್, ಮಣಿಹಳ್ಳ",
+      "amount": 1000,
+      "book": "11-271",
+      "sl": "271",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Nataraaj, Kuttikala",
+      "kannada": "ನಟರಾಜ್, ಕುಟ್ಟಿಕಳ",
+      "amount": 1000,
+      "book": "12-280",
+      "sl": "280",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Kishore nayka , Poopadikatte",
+      "kannada": "ಕಿಶೋರ್ ನಾಯ್ಕ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "12-284",
+      "sl": "284",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Suresh Shetty, Miyaar",
+      "kannada": "ಸುರೇಶ್ ಶೆಟ್ಟಿ, ಮಿಯಾರ್",
+      "amount": 2000,
+      "book": "12-285",
+      "sl": "285",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Suresh Kumar,Navoor, agrahaara beedi, advocate",
+      "kannada": "ಸುರೇಶ್ ಕುಮಾರ್, ನಾವೂರು, ಅಗ್ರಹಾರ ಬೀದಿ, ವಕೀಲರು",
+      "amount": 1200,
+      "book": "12-296",
+      "sl": "296",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Dinesh Poojary, ujiraadi guthu",
+      "kannada": "ದಿನೇಶ್ ಪೂಜಾರಿ, ಉಜಿರಾಡಿ ಗುತ್ತು",
+      "amount": 2500,
+      "book": "13-308",
+      "sl": "308",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Jaya Shobha, ujiraadi guthu, allipaade",
+      "kannada": "ಜಯ ಶೋಭಾ, ಉಜಿರಾಡಿ ಗುತ್ತು, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 2000,
+      "book": "13-314",
+      "sl": "314",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Abhishek poojary, Kudru, ajilamogaru",
+      "kannada": "ಅಭಿಷೇಕ ಪೂಜಾರಿ, ಕುದ್ರು, ಅಜಿಲಮೊಗರು",
+      "amount": 3000,
+      "book": "13-319",
+      "sl": "319",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Ashok chandravathi, adaarkala",
+      "kannada": "ಅಶೋಕ್ ಚಂದ್ರಾವತಿ, ಆಧಾರ್ಕಳ",
+      "amount": 2000,
+      "book": "13-322",
+      "sl": "322",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Lalitha chandappa bangera, poopadikatte",
+      "kannada": "ಲಲಿತಾ ಚಂದಪ್ಪ ಬಂಗೇರ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "13-325",
+      "sl": "325",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "E.R.Sharath, S L CONSTRUCTIONS, Kakkepadavu",
+      "kannada": "ಇ.ಆರ್.ಶರತ್, ಎಸ್ ಎಲ್ ಕನ್ಸ್ಟ್ರಕ್ಷನ್ಸ್, ಕಕ್ಕೆಪದವು",
+      "amount": 2000,
+      "book": "14-339",
+      "sl": "339",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Ravindra T C, Lakshmi Ramana CASHEW INDUSTRIES",
+      "kannada": "ರವೀಂದ್ರ ಟಿ ಸಿ, ಲಕ್ಷ್ಮಿ ರಮಣ ಕ್ಯಾಶ್ಯೂ ಇಂಡಸ್ಟ್ರೀಸ್",
+      "amount": 1000,
+      "book": "14-347",
+      "sl": "347",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Dinesh nayka ,poopadikatte",
+      "kannada": "ದಿನೇಶ್ ನಾಯ್ಕ, ಪೂಪಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "14-348",
+      "sl": "348",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Amarnath shetty kuriyala",
+      "kannada": "ಅಮರನಾಥ ಶೆಟ್ಟಿ ಕುರಿಯಾಲ",
+      "amount": 1010,
+      "book": "15-362",
+      "sl": "362",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Ravindra poonja bellare",
+      "kannada": "ರವೀಂದ್ರ ಪೂಂಜಾ ಬೆಲ್ಲಾರೆ",
+      "amount": 1000,
+      "book": "15-364",
+      "sl": "364",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Kalavathi b poonja ಪಾದಿಲ​",
+      "kannada": "ಕಲಾವತಿ ಬಿ ಪೂಂಜಾ ಪಾದಿಲ",
+      "amount": 1000,
+      "book": "15-365",
+      "sl": "365",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Murali bhat halegetu",
+      "kannada": "ಮುರಳಿ ಭಟ್ ಹಳೆಗೆಟು",
+      "amount": 1000,
+      "book": "15-367",
+      "sl": "367",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Janardhana naika nekkipalke",
+      "kannada": "ಜನಾರ್ದನ ನಾಯಕ ನೆಕ್ಕಿಪಲ್ಕೆ",
+      "amount": 1000,
+      "book": "15-368",
+      "sl": "368",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Radhakrishna rai kottunja, sharabeshwara TRADERS mavinakatte",
+      "kannada": "ರಾಧಾಕೃಷ್ಣ ರೈ ಕೊಟ್ಟುಂಜ, ಶರಬೇಶ್ವರ ಟ್ರೇಡರ್ಸ್ ಮಾವಿನಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "15-370",
+      "sl": "370",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Preetham shetty dandegoli",
+      "kannada": "ಪ್ರೀತಂ ಶೆಟ್ಟಿ ದಂಡೇಗೋಳಿ",
+      "amount": 2000,
+      "book": "15-371",
+      "sl": "371",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Hastha shetty Mumbai",
+      "kannada": "ಹಸ್ತಾ ಶೆಟ್ಟಿ ಮುಂಬೈ",
+      "amount": 1000,
+      "book": "15-372",
+      "sl": "372",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Chitra pakkala Dharawada",
+      "kannada": "ಚಿತ್ರ ಪಕ್ಕಲಾ ಧಾರವಾಡ",
+      "amount": 2000,
+      "book": "15-373",
+      "sl": "373",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Shalini naika poopadikatte",
+      "kannada": "ಶಾಲಿನಿ ನಾಯಕ ಪೂಪಾದಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "15-375",
+      "sl": "375",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Thimmappa moolya, maandrodi",
+      "kannada": "ತಿಮ್ಮಪ್ಪ ಮೂಲ್ಯ, ಮಾಂದ್ರೋಡಿ",
+      "amount": 1100,
+      "book": "16-378",
+      "sl": "378",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Nanyappa poojary gaanada kotya",
+      "kannada": "ನಾಣ್ಯಪ್ಪ ಪೂಜಾರಿ ಗಾನದ ಕೋಟ್ಯ",
+      "amount": 2500,
+      "book": "16-380",
+      "sl": "380",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Dr. Vijaya prasad, sahana clinic, bantwala",
+      "kannada": "ಡಾ.ವಿಜಯ ಪ್ರಸಾದ್, ಸಹನಾ ಕ್ಲಿನಿಕ್, ಬಂಟ್ವಾಳ",
+      "amount": 1000,
+      "book": "16-381",
+      "sl": "381",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Vamana nayka poopadikatte",
+      "kannada": "ವಾಮನ ನಾಯಕ ಪೂಪಾದಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "16-385",
+      "sl": "385",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Rama poojary , erukadapu",
+      "kannada": "ರಾಮ ಪೂಜಾರಿ, ಎರುಕಡಪು",
+      "amount": 2000,
+      "book": "16-386",
+      "sl": "386",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Rajesh Naik, SHASAKARU,Bantwala",
+      "kannada": "ರಾಜೇಶ್ ನಾಯ್ಕ್, ಶಾಸಕರು, ಬಂಟ್ವಾಳ",
+      "amount": 3000,
+      "book": "16-389",
+      "sl": "389",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Ankur dubey, Varanasi, prestige valley crest, mangalore",
+      "kannada": "ಅಂಕುರ್ ದುಬೆ, ವಾರಣಾಸಿ, ಪ್ರೆಸ್ಟೀಜ್ ವ್ಯಾಲಿ ಕ್ರೆಸ್ಟ್, ಮಂಗಳೂರು",
+      "amount": 1000,
+      "book": "16-394",
+      "sl": "394",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Ananda Kottary Karikumeru",
+      "kannada": "ಆನಂದ ಕೊಟ್ಟಾರಿ ಕರಿಕುಮೇರು",
+      "amount": 7500,
+      "book": "16-396",
+      "sl": "396",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Purushotham shenoy, Poopadikatte",
+      "kannada": "ಪುರುಷೋತ್ತಮ ಶೆಣೈ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 1010,
+      "book": "16-397",
+      "sl": "397",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Padmashekhar jain,BALLLODI guthu",
+      "kannada": "ಪದ್ಮಶೇಖರ್ ಜೈನ್, ಬಳ್ಳೋಡಿ ಗುತ್ತು",
+      "amount": 2000,
+      "book": "16-398",
+      "sl": "398",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Vaarija nekkipalke",
+      "kannada": "ವಾರಿಜ ನೆಕ್ಕಿಪಲ್ಕೆ",
+      "amount": 2000,
+      "book": "17-401",
+      "sl": "401",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Harish nayka, nekkipalke",
+      "kannada": "ಹರೀಶ್ ನಾಯ್ಕ, ನೆಕ್ಕಿಪಲ್ಕೆ",
+      "amount": 3000,
+      "book": "17-402",
+      "sl": "402",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Raajesh rao U, Thekkibettu paraari vamanjoor",
+      "kannada": "ರಾಜೇಶ್ ರಾವ್ ಯು, ತೆಕ್ಕಿಬೆಟ್ಟು ಪರಾರಿ ವಾಮಂಜೂರು",
+      "amount": 1000,
+      "book": "17-403",
+      "sl": "403",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Sheena Poojary, poopadikatte, ghaati",
+      "kannada": "ಶೀನ ಪೂಜಾರಿ, ಪೂಪಾಡಿಕಟ್ಟೆ, ಘಾಟಿ",
+      "amount": 1000,
+      "book": "17-404",
+      "sl": "404",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "PBA EARTH MOVERS,B.C.Road",
+      "kannada": "ಪಿಬಿಎ ಅರ್ಥ್ ಮೂವರ್ಸ್, ಬಿ.ಸಿ. ರಸ್ತೆ",
+      "amount": 1000,
+      "book": "17-409",
+      "sl": "409",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Jayaram Shetty Kukkila",
+      "kannada": "ಜಯರಾಮ್ ಶೆಟ್ಟಿ ಕುಕ್ಕಿಲ",
+      "amount": 10000,
+      "book": "17-410",
+      "sl": "410",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Lokesh Acharya, allipaade",
+      "kannada": "ಲೋಕೇಶ್ ಆಚಾರ್ಯ, ಅಲ್ಲಿಪಾಡೆ",
+      "amount": 1000,
+      "book": "17-413",
+      "sl": "413",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Harshith Kumar, poopadikatte",
+      "kannada": "ಹರ್ಷಿತ್ ಕುಮಾರ್, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 2000,
+      "book": "17-417",
+      "sl": "417",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Hemanth Kulal and family, Sinthanikatter, navoor",
+      "kannada": "ಹೇಮಂತ್ ಕುಲಾಲ್ ಮತ್ತು ಕುಟುಂಬ, ಸಿಂತಾನಿಕಟ್ಟೆ, ನಾವೂರು",
+      "amount": 1500,
+      "book": "17-419",
+      "sl": "419",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Sharan Kumar , poopadikatte",
+      "kannada": "ಶರಣ್ ಕುಮಾರ್, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "17-422",
+      "sl": "422",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Ratan Kottary , Karikumeru",
+      "kannada": "ರತನ್ ಕೊಟ್ಟಾರಿ, ಕರಿಕುಮೇರು",
+      "amount": 1500,
+      "book": "17-424",
+      "sl": "424",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Vishwa Hindu parishath, bajarangadala, Sinthanikatte branch,poopadikatte,bantwal prakhanda",
+      "kannada": "ವಿಶ್ವ ಹಿಂದೂ ಪರಿಷತ್, ಬಜರಂಗದಳ, ಸಿಂತಾನಿಕಟ್ಟೆ ಶಾಖೆ, ಪೂಪಾಡಿಕಟ್ಟೆ, ಬಂಟ್ವಾಳ ಪ್ರಖಂಡ",
+      "amount": 2000,
+      "book": "17-425",
+      "sl": "425",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Shobha shetty",
+      "kannada": "ಶೋಭಾ ಶೆಟ್ಟಿ",
+      "amount": 2000,
+      "book": "18-405",
+      "sl": "405",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Kavitha suresh, samrudhi nilaya, alyike  majalu mane",
+      "kannada": "ಕವಿತಾ ಸುರೇಶ್, ಸಮೃದ್ಧಿ ನಿಲಯ, ಅಳಿಕೆ ಮಜಲು ಮನೆ",
+      "amount": 3000,
+      "book": "18-407",
+      "sl": "407",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Rajeeva shetty, Kukkila",
+      "kannada": "ರಾಜೀವ ಶೆಟ್ಟಿ, ಕುಕ್ಕಿಲ",
+      "amount": 1000,
+      "book": "18-414",
+      "sl": "414",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Sadashiva poonja, ಪಾದಿಲ​",
+      "kannada": "ಸದಾಶಿವ ಪೂಂಜಾ, ಪಾದಿಲ",
+      "amount": 1000,
+      "book": "18-422",
+      "sl": "422",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "H. Sudhakara shetty, Heggade kodi, sarapaadi",
+      "kannada": "ಎಚ್.ಸುಧಾಕರ ಶೆಟ್ಟಿ, ಹೆಗ್ಗಡೆ ಕೋಡಿ, ಸರಪಾಡಿ",
+      "amount": 1000,
+      "book": "18-444",
+      "sl": "444",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Abubakkar, kenjaar, social worker",
+      "kannada": "ಅಬೂಬಕ್ಕರ್, ಕೆಂಜಾರ್, ಸಮಾಜ ಸೇವಕ",
+      "amount": 2000,
+      "book": "19-452",
+      "sl": "452",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Harish aithappa shetty, mumbai",
+      "kannada": "ಹರೀಶ್ ಐತಪ್ಪ ಶೆಟ್ಟಿ, ಮುಂಬೈ",
+      "amount": 1000,
+      "book": "19-453",
+      "sl": "453",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Smt. Harini V salian",
+      "kannada": "ಶ್ರೀಮತಿ ಹರಿಣಿ ವಿ ಸಾಲಿಯನ್",
+      "amount": 2000,
+      "book": "19-454",
+      "sl": "454",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Dhanpaal puthran",
+      "kannada": "ಧನಪಾಲ್ ಪುತ್ರನ್",
+      "amount": 2000,
+      "book": "19-455",
+      "sl": "455",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Chandrahaas kottary, Advocate, mangalore",
+      "kannada": "ಚಂದ್ರಹಾಸ್ ಕೊಟ್ಟಾರಿ, ವಕೀಲರು, ಮಂಗಳೂರು",
+      "amount": 1000,
+      "book": "19-457",
+      "sl": "457",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Radhakrishna Banjan, allipade",
+      "kannada": "ರಾಧಾಕೃಷ್ಣ ಬಂಜನ್, ಅಲ್ಲಿಪಡೆ",
+      "amount": 1005,
+      "book": "19-459",
+      "sl": "459",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Venkappa, mudkarapalke",
+      "kannada": "ವೆಂಕಪ್ಪ, ಮುದ್ಕರಪಲ್ಕೆ",
+      "amount": 1000,
+      "book": "19-468",
+      "sl": "468",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "shaanthappa poojary, atttadadka",
+      "kannada": "ಶಾಂತಪ್ಪ ಪೂಜಾರಿ, ಅಟ್ಟದಡ್ಕ",
+      "amount": 1000,
+      "book": "19-472",
+      "sl": "472",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Nethravathi nursery",
+      "kannada": "ನೇತ್ರಾವತಿ ನರ್ಸರಿ",
+      "amount": 1200,
+      "book": "19-475",
+      "sl": "475",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Sundar kulal, kalpavraksha nilaya, navooru",
+      "kannada": "ಸುಂದರ್ ಕುಲಾಲ್, ಕಲ್ಪವೃಕ್ಷ ನಿಲಯ, ನಾವೂರು",
+      "amount": 2000,
+      "book": "19-484",
+      "sl": "484",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Shrinivas bhat, Pramod enterprises,bantwala",
+      "kannada": "ಶ್ರೀನಿವಾಸ ಭಟ್, ಪ್ರಮೋದ್ ಎಂಟರ್‌ಪ್ರೈಸಸ್, ಬಂಟ್ವಾಳ",
+      "amount": 2000,
+      "book": "19-490",
+      "sl": "490",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Prema dharnappa nayka, poopadikatte",
+      "kannada": "ಪ್ರೇಮಾ ಧರ್ಣಪ್ಪ ನಾಯ್ಕ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "19-492",
+      "sl": "492",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Rajesh bhandary, Adithi granites and tiles, bantwala",
+      "kannada": "ರಾಜೇಶ್ ಭಂಡಾರಿ, ಅದಿತಿ ಗ್ರಾನೈಟ್ಸ್ ಮತ್ತು ಟೈಲ್ಸ್, ಬಂಟ್ವಾಳ",
+      "amount": 6000,
+      "book": "19-493",
+      "sl": "493",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Subhramnya bhat,Adithya enterprises, bypass,Bantwala",
+      "kannada": "ಸುಭ್ರಮಣ್ಯ ಭಟ್, ಆದಿತ್ಯ ಎಂಟರ್‌ಪ್ರೈಸಸ್, ಬೈಪಾಸ್, ಬಂಟ್ವಾಳ",
+      "amount": 2000,
+      "book": "19-497",
+      "sl": "497",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Nithin shubha, guruvayanakere, Advocate, B.C.Road",
+      "kannada": "ನಿತಿನ್ ಶುಭಾ, ಗುರುವಾಯನಕೆರೆ, ವಕೀಲರು, ಬಿ.ಸಿ.ರೋಡ್",
+      "amount": 1000,
+      "book": "19-500",
+      "sl": "500",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Bantwala vyavasaaya seva sahakaari sangha, Bantwala",
+      "kannada": "ಬಂಟ್ವಾಳ ವ್ಯವಸಾಯ ಸೇವಾ ಸಹಕಾರಿ ಸಂಘ, ಬಂಟ್ವಾಳ",
+      "amount": 5000,
+      "book": "20-351",
+      "sl": "351",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Anantha shenoy, Koodyibailu",
+      "kannada": "ಅನಂತ ಶೆಣೈ, ಕೂಡಿಬೈಲು",
+      "amount": 6860,
+      "book": "20-352",
+      "sl": "352",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Vijay navoor, grama panchayathi sadasyaru, navoor",
+      "kannada": "ವಿಜಯ ನಾವೂರು, ಗ್ರಾ.ಪಂ.ಸದಸ್ಯರು, ನಾವೂರು",
+      "amount": 2000,
+      "book": "20-353",
+      "sl": "353",
+      "info": "",
+      "year": 2024
+    },
+    {
+      "name": "Suresh maira",
+      "kannada": "ಸುರೇಶ್ ಮೈರಾ",
+      "amount": 1000,
+      "book": "20-354",
+      "sl": "354",
+      "info": "",
+      "year": 2024
+    }
+  ],
+  "donors2025": [
+    {
+      "name": "VNR Gold , Bantwal",
+      "kannada": "ವಿಎನ್‌ಆರ್ ಗೋಲ್ಡ್, ಬಂಟ್ವಾಳ",
+      "amount": 1000,
+      "book": "1",
+      "sl": "1",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "hotel shiv sagar,Bantwal",
+      "kannada": "ಹೋಟೆಲ್ ಶಿವ್ ಸಾಗರ್, ಬಂಟ್ವಾಳ",
+      "amount": 250,
+      "book": "1",
+      "sl": "2",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shree Hari Jewellers",
+      "kannada": "ಶ್ರೀ ಹರಿ ಜೆವೆಲರ್ಸ್",
+      "amount": 1000,
+      "book": "1",
+      "sl": "3",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Usha Wines,Bantwal",
+      "kannada": "ಉಷಾ ವೈನ್ಸ್, ಬಂಟ್ವಾಳ",
+      "amount": 500,
+      "book": "1",
+      "sl": "4",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "H.J.Kamath, Bantwal",
+      "kannada": "ಹೆಚ್.ಜೆ. ಕಾಮತ್, ಬಂಟ್ವಾಳ",
+      "amount": 500,
+      "book": "1",
+      "sl": "5",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Srujan medical center, Market road, Bantwal",
+      "kannada": "ಸೃಜನ್ ಮೆಡಿಕಲ್ ಸೆಂಟರ್, ಮಾರ್ಕೆಟ್ ರೋಡ್, ಬಂಟ್ವಾಳ",
+      "amount": 500,
+      "book": "1",
+      "sl": "6",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Bantwala Vyavasaya sahakaari sangha,Bantwala",
+      "kannada": "ಬಂಟ್ವಾಳ ವ್ಯವಸಾಯ ಸಹಕಾರಿ ಸಂಘ,ಬಂಟ್ವಾಳ",
+      "amount": 5000,
+      "book": "1",
+      "sl": "7",
+      "info": "Cheque no. 575298017",
+      "year": 2025
+    },
+    {
+      "name": "sundari, ujiraadi, ghaati,poopadikatte",
+      "kannada": "ಸುಂದರಿ, ಉಜಿರಾಡಿ, ಘಾಟಿ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 300,
+      "book": "1",
+      "sl": "8",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "revathi kodagu,allipade",
+      "kannada": "ರೇವತಿ ಕೊಡಗು, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 200,
+      "book": "1",
+      "sl": "9",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Mithra prabha, Allipade",
+      "kannada": "ಮಿತ್ರ ಪ್ರಭಾ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 200,
+      "book": "1",
+      "sl": "10",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vaasu moolya,Kangithlu",
+      "kannada": "ವಾಸು ಮೂಲ್ಯ, ಕಂಗಿತ್ಲು",
+      "amount": 100,
+      "book": "1",
+      "sl": "11",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "lokanaatha shetty, B.C.ROAD",
+      "kannada": "ಲೋಕನಾಥ ಶೆಟ್ಟಿ, ಬಿ.ಸಿ.ರೋಡ್",
+      "amount": 500,
+      "book": "1",
+      "sl": "12",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "hemanth Kulal,palke darbaasu",
+      "kannada": "ಹೇಮಂತ್ ಕುಲಾಲ್, ಪಾಲ್ಕೆ ದರ್ಬಾಸು",
+      "amount": 1000,
+      "book": "1",
+      "sl": "13",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "annappa moolya,ankara gundi",
+      "kannada": "ಅಣ್ಣಪ್ಪ ಮೂಲ್ಯ, ಅಂಕರ ಗುಂಡಿ",
+      "amount": 300,
+      "book": "1",
+      "sl": "14",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Prakash shetty. murkil",
+      "kannada": "ಪ್ರಕಾಶ್ ಶೆಟ್ಟಿ. ಮುರ್ಕಿಲ್",
+      "amount": 500,
+      "book": "1",
+      "sl": "15",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vanitha kamalaaksha,allipaade",
+      "kannada": "ವನಿತಾ ಕಮಲಾಕ್ಷ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 100,
+      "book": "1",
+      "sl": "16",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vidya ganesh, allipade",
+      "kannada": "ವಿದ್ಯಾ ಗಣೇಶ್, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 150,
+      "book": "1",
+      "sl": "17",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "B. Narayana Rai, saaketha, atttadadka",
+      "kannada": "ಬಿ.ನಾರಾಯಣ ರೈ, ಸಾಕೇತ, ಅಟ್ಟದಡ್ಕ",
+      "amount": 1000,
+      "book": "1",
+      "sl": "18",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sanath Kumar Chowta, Navoor",
+      "kannada": "ಸನತ್ ಕುಮಾರ್ ಚೌಟ, ನವೂರ್",
+      "amount": 10000,
+      "book": "1",
+      "sl": "19",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Hemavathi Sundara sapalya, ಮಿನಾಳಿ, allipaade",
+      "kannada": "ಹೇಮಾವತಿ ಸುಂದರ ಸಪಲ್ಯ, ಮಿನಾಳಿ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 250,
+      "book": "1",
+      "sl": "20",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Janardhana Poojary, Porkala,naavoor",
+      "kannada": "ಜನಾರ್ದನ ಪೂಜಾರಿ, ಪೊರ್ಕಳ, ನಾವೂರು",
+      "amount": 500,
+      "book": "1",
+      "sl": "21",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sundara Kottary,Thirthottu",
+      "kannada": "ಸುಂದರ ಕೊಟ್ಟಾರಿ, ತಿರ್ತೋಟ್ಟು",
+      "amount": 500,
+      "book": "1",
+      "sl": "22",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Anganavaadi kendra kaaryakarthe matthu sahaayaki poopadikatte",
+      "kannada": "ಅಂಗನವಾಡಿ ಕೇಂದ್ರದ ಕಾರ್ಯಕರ್ತೆ ಮತ್ತು ಸಹಾಯಕಿ ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 200,
+      "book": "1",
+      "sl": "23",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Reshma divakara , ಮಾಲಬೆ",
+      "kannada": "ರೇಷ್ಮಾ ದಿವಾಕರ , ಮಾಲಬೆ",
+      "amount": 300,
+      "book": "1",
+      "sl": "24",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vijaya hariyappa,halegetu",
+      "kannada": "ವಿಜಯ ಹರಿಯಪ್ಪ, ಹಳೆಗೆಟು",
+      "amount": 1000,
+      "book": "1",
+      "sl": "25",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "Gowri sheenappa poojary, aneja",
+      "kannada": "ಗೌರಿ ಶೀನಪ್ಪ ಪೂಜಾರಿ, ಅನೇಜ",
+      "amount": 250,
+      "book": "1",
+      "sl": "26",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vinoda heerengi",
+      "kannada": "ವಿನೋದಾ ಹೀರೆಂಗಿ",
+      "amount": 100,
+      "book": "1",
+      "sl": "27",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ramanna gowda,vakeelaru,B.C.ROAD",
+      "kannada": "ರಾಮಣ್ಣ ಗೌಡ, ವಕೀಲಾರು, ಬಿ.ಸಿ.ರೋಡ್",
+      "amount": 1000,
+      "book": "1",
+      "sl": "28",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "rithesh ,MRPL",
+      "kannada": "ರಿತೇಶ್, ಎಂಆರ್‌ಪಿಎಲ್",
+      "amount": 500,
+      "book": "1",
+      "sl": "29",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "yogish, Maindala",
+      "kannada": "ಯೋಗೀಶ್, ಮೈಂದಾಲ",
+      "amount": 300,
+      "book": "1",
+      "sl": "30",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "padmanabha kempugudde,navoor",
+      "kannada": "ಪದ್ಮನಾಭ ಕೆಂಪುಗುಡ್ಡೆ, ನವೂರು",
+      "amount": 500,
+      "book": "1",
+      "sl": "31",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dharnappa,mulkajemaada",
+      "kannada": "ಧರ್ಣಪ್ಪ, ಮುಲ್ಕಜೆಮಾಡ",
+      "amount": 100,
+      "book": "1",
+      "sl": "32",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "hemalatha dota",
+      "kannada": "ಹೇಮಲತಾ ದೋಟಾ",
+      "amount": 100,
+      "book": "1",
+      "sl": "33",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "mohan poojary, kelagina maangaje",
+      "kannada": "ಮೋಹನ ಪೂಜಾರಿ, ಕೆಳಗಿನ ಮಾಂಗಾಜೆ",
+      "amount": 200,
+      "book": "1",
+      "sl": "34",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Manjuprasad, MRPL",
+      "kannada": "ಮಂಜುಪ್ರಸಾದ್, ಎಂ.ಆರ್.ಪಿ.ಎಲ್.",
+      "amount": 300,
+      "book": "1",
+      "sl": "35",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "divakara rai, MRPL",
+      "kannada": "ದಿವಾಕರ ರೈ, MRPL",
+      "amount": 350,
+      "book": "1",
+      "sl": "36",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "mahabala poojary, paadebettu",
+      "kannada": "ಮಹಾಬಲ ಪೂಜಾರಿ, ಪಾದೆಬೆಟ್ಟು",
+      "amount": 200,
+      "book": "1",
+      "sl": "37",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ramesh poojary, ಕೆಲ್ಲೇರ್ ಮಾರ್",
+      "kannada": "ರಮೇಶ್ ಪೂಜಾರಿ, ಕೆಲ್ಲೇರ್ ಮಾರ್",
+      "amount": 250,
+      "book": "1",
+      "sl": "38",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "krishnappa balayooru",
+      "kannada": "ಕೃಷ್ಣಪ್ಪ ಬಲಯೂರು",
+      "amount": 100,
+      "book": "1",
+      "sl": "39",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "hemavathi koragappa suvarna,bhajane mane",
+      "kannada": "ಹೇಮಾವತಿ ಕೊರಗಪ್ಪ ಸುವರ್ಣ,ಭಜನೆ ಮನೆ",
+      "amount": 250,
+      "book": "1",
+      "sl": "40",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "hemalatha raama, erukadapu",
+      "kannada": "ಹೇಮಲತಾ ರಾಮ, ಎರುಕಡಪು",
+      "amount": 200,
+      "book": "1",
+      "sl": "41",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vasanthi, ambedkar nagara, navoor",
+      "kannada": "ವಸಂತಿ, ಅಂಬೇಡ್ಕರ್ ನಗರ, ನಾವೂರು",
+      "amount": 300,
+      "book": "1",
+      "sl": "42",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ramya jayanth, kempugudde, beeyapaade",
+      "kannada": "ರಮ್ಯಾ ಜಯಂತ್, ಕೆಂಪುಗುಡ್ಡೆ, ಬೀಯಪಾದೆ",
+      "amount": 100,
+      "book": "1",
+      "sl": "43",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "baabu acharya,sinthaani katte",
+      "kannada": "ಬಾಬು ಆಚಾರ್ಯ, ಸಿಂಥಾನಿ ಕಟ್ಟೆ",
+      "amount": 300,
+      "book": "1",
+      "sl": "44",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "keshava sapalya, aneja",
+      "kannada": "ಕೇಶವ ಸಪಲ್ಯ, ಅನೇಜ",
+      "amount": 200,
+      "book": "1",
+      "sl": "45",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vasanthi, perla gaandotya",
+      "kannada": "ವಸಂತಿ, ಪೆರ್ಲ ಗಾಂಡೋಟ್ಯಾ",
+      "amount": 100,
+      "book": "1",
+      "sl": "46",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "madhava acharya,munnalayi padavu",
+      "kannada": "ಮಾಧವ ಆಚಾರ್ಯ, ಮುನ್ನಲಾಯಿ ಪದವು",
+      "amount": 100,
+      "book": "1",
+      "sl": "47",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vasanthi, murkanja",
+      "kannada": "ವಸಂತಿ, ಮುರ್ಕಂಜ",
+      "amount": 100,
+      "book": "1",
+      "sl": "48",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "lakshmi and makkalu,ujiraadi gutthu",
+      "kannada": "ಲಕ್ಷ್ಮಿ ಮತ್ತು ಮಕ್ಕಳು, ಉಜಿರಾಡಿ ಗುತ್ತು",
+      "amount": 500,
+      "book": "1",
+      "sl": "49",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "nethravathi nursery",
+      "kannada": "ನೇತ್ರಾವತಿ ನರ್ಸರಿ",
+      "amount": 1000,
+      "book": "1",
+      "sl": "50",
+      "info": "Advertisement",
+      "year": 2025
+    },
+    {
+      "name": "K. Ananda rao, Kedige",
+      "kannada": "ಕೆ. ಆನಂದ ರಾವ್, ಕೇದಿಗೆ",
+      "amount": 200,
+      "book": "2",
+      "sl": "51",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vishwanatha poojary, kedige",
+      "kannada": "ವಿಶ್ವನಾಥ ಪೂಜಾರಿ, ಕೇದಿಗೆ",
+      "amount": 200,
+      "book": "2",
+      "sl": "52",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "shobha shetty, ಬಜ, B.C.ROAD",
+      "kannada": "ಶೋಭಾ ಶೆಟ್ಟಿ, ಬಜ, ಬಿ.ಸಿ.ರೋಡ್",
+      "amount": 2000,
+      "book": "2",
+      "sl": "53",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "sukanya ravindra rao, allipaade",
+      "kannada": "ಸುಕನ್ಯಾ ರವೀಂದ್ರ ರಾವ್, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 500,
+      "book": "2",
+      "sl": "54",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vikram kumar , ಒಡುದಡ್ಕ",
+      "kannada": "ವಿಕ್ರಮ್ ಕುಮಾರ್ , ಓದುದಡ್ಕ",
+      "amount": 200,
+      "book": "2",
+      "sl": "55",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "abubakkar, falavasthu vyaparastharu,bantwal",
+      "kannada": "ಅಬೂಬಕ್ಕರ್, ಫಲವಸ್ತು ವ್ಯಾಪಾರಸ್ಥರು,ಬಂಟ್ವಾಳ",
+      "amount": 500,
+      "book": "2",
+      "sl": "56",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "susheela karaaje",
+      "kannada": "ಸುಶೀಲಾ ಕರಾಜೆ",
+      "amount": 2000,
+      "book": "2",
+      "sl": "57",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "kristin pinto,sulthankatte",
+      "kannada": "ಕ್ರಿಸ್ಟಿನ್ ಪಿಂಟೊ, ಸುಲ್ತಾನಕಟ್ಟೆ",
+      "amount": 100,
+      "book": "2",
+      "sl": "58",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ajith kumar jain, perla mane",
+      "kannada": "ಅಜಿತ್ ಕುಮಾರ್ ಜೈನ್, ಪೆರ್ಲ ಮಾನೆ",
+      "amount": 300,
+      "book": "2",
+      "sl": "59",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "keshava poojary, majalu mane, kattadapadpu",
+      "kannada": "ಕೇಶವ ಪೂಜಾರಿ, ಮಜಲು ಮನೆ, ಕಟ್ಟದಪಡ್ಪು",
+      "amount": 250,
+      "book": "2",
+      "sl": "60",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "karthik shaktinagara",
+      "kannada": "ಕಾರ್ತಿಕ್ ಶಕ್ತಿನಗರ",
+      "amount": 500,
+      "book": "2",
+      "sl": "61",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "krishna naayak, koody bailu",
+      "kannada": "ಕೃಷ್ಣ ನಾಯಕ್, ಕೂಡಿ ಬೈಲು",
+      "amount": 2050,
+      "book": "2",
+      "sl": "62",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "shamitha sathish poojary, bollur",
+      "kannada": "ಶಮಿತಾ ಸತೀಶ್ ಪೂಜಾರಿ, ಬೊಳ್ಳೂರು",
+      "amount": 200,
+      "book": "2",
+      "sl": "63",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "giriyappa, kotian, vaccharu",
+      "kannada": "ಗಿರಿಯಪ್ಪ, ಕೋಟ್ಯಾನ್, ವಚ್ಚಾರು",
+      "amount": 200,
+      "book": "2",
+      "sl": "64",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Gopala Kayarambu",
+      "kannada": "ಗೋಪಾಲ ಕಾಯರಂಬು",
+      "amount": 500,
+      "book": "2",
+      "sl": "65",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Padmanabha, Marayidottu",
+      "kannada": "ಪದ್ಮನಾಭ, ಮರಾಯಿದೊಟ್ಟು",
+      "amount": 250,
+      "book": "2",
+      "sl": "66",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Kusuma Nonayya Poojary, Bolluru",
+      "kannada": "ಕುಸುಮಾ ನೋಣಯ್ಯ ಪೂಜಾರಿ, ಬೊಳ್ಳೂರು",
+      "amount": 500,
+      "book": "2",
+      "sl": "67",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Anusha Narayana Bolluru",
+      "kannada": "ಅನುಷಾ ನಾರಾಯಣ ಬೊಳ್ಳೂರು",
+      "amount": 500,
+      "book": "2",
+      "sl": "68",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Kalyani Malabe",
+      "kannada": "ಕಲ್ಯಾಣಿ ಮಲಾಬೆ",
+      "amount": 200,
+      "book": "2",
+      "sl": "69",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sundara Poojary Allipade",
+      "kannada": "ಸುಂದರ ಪೂಜಾರಿ ಅಲ್ಲಿಪಾದೆ",
+      "amount": 200,
+      "book": "2",
+      "sl": "70",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vaasu Poojary, Kulaal",
+      "kannada": "ವಾಸು ಪೂಜಾರಿ, ಕುಲಾಲ್",
+      "amount": 200,
+      "book": "2",
+      "sl": "71",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "K. Vittal Shetty Kakkya Hosamane",
+      "kannada": "ಕೆ.ವಿಟ್ಟಲ್ ಶೆಟ್ಟಿ ಕಕ್ಯ ಹೊಸಮನೆ",
+      "amount": 301,
+      "book": "2",
+      "sl": "72",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Janardhana Perlamajalu",
+      "kannada": "ಜನಾರ್ದನ ಪೆರ್ಲಮಜಲು",
+      "amount": 300,
+      "book": "2",
+      "sl": "73",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Meenakshi saralapade bantwal",
+      "kannada": "ಮೀನಾಕ್ಷಿ ಸರಳಪಾದೆ ಬಂಟ್ವಾಳ",
+      "amount": 50,
+      "book": "2",
+      "sl": "74",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ರತಿ, Ujiradi",
+      "kannada": "ರತಿ, ಉಜಿರಾಡಿ",
+      "amount": 200,
+      "book": "2",
+      "sl": "75",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vamana poojary, pakairottu",
+      "kannada": "ವಾಮನ ಪೂಜಾರಿ, ಪಕೈರೊಟ್ಟು",
+      "amount": 250,
+      "book": "2",
+      "sl": "76",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sandesh allipade Basti",
+      "kannada": "ಸಂದೇಶ್ ಅಲ್ಲಿಪಡೆ ಬಸ್ತಿ",
+      "amount": 300,
+      "book": "2",
+      "sl": "77",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dombayya bangera, Allipade",
+      "kannada": "ಡೊಂಬಯ್ಯ ಬಂಗೇರ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 100,
+      "book": "2",
+      "sl": "78",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Thimappa moolya Kedige",
+      "kannada": "ತಿಮ್ಮಪ್ಪ ಮೂಲ್ಯ ಕೇದಿಗೆ",
+      "amount": 100,
+      "book": "2",
+      "sl": "79",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rajeeva Shetty Kukkila",
+      "kannada": "ರಾಜೀವ ಶೆಟ್ಟಿ ಕುಕ್ಕಿಲ",
+      "amount": 1000,
+      "book": "2",
+      "sl": "80",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "Dharmavathi, perla Gaandotya",
+      "kannada": "ಧರ್ಮಾವತಿ, ಪೆರ್ಲ ಗಾಂಡೋಟ್ಯಾ",
+      "amount": 100,
+      "book": "2",
+      "sl": "81",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ಪದ್ಮಾವತಿ, ಓಡುದಡ್ಕ​",
+      "kannada": "ಪದ್ಮಾವತಿ, ಓಡುದಡ್ಕ​",
+      "amount": 200,
+      "book": "2",
+      "sl": "82",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Udaya sapalya, perla majalu",
+      "kannada": "ಉದಯ ಸಪಲ್ಯ, ಪೆರ್ಲ ಮಜಲು",
+      "amount": 100,
+      "book": "2",
+      "sl": "83",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Mohini balayoor",
+      "kannada": "ಮೋಹಿನಿ ಬಲಯೂರ್",
+      "amount": 200,
+      "book": "2",
+      "sl": "84",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dinesh gowda balayoor",
+      "kannada": "ದಿನೇಶ್ ಗೌಡ ಬಲಯೂರ್",
+      "amount": 200,
+      "book": "2",
+      "sl": "85",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "chennappa sapalya nurthaadi mane",
+      "kannada": "ಚೆನ್ನಪ್ಪ ಸಪಲ್ಯ ನೂರ್ತಾಡಿ ಮನೆ",
+      "amount": 200,
+      "book": "2",
+      "sl": "86",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sathish Allipaade fancy SHOP",
+      "kannada": "ಸತೀಶ್ ಅಲ್ಲಿಪಾಡೆ ಫ್ಯಾನ್ಸಿ ಶಾಪ್",
+      "amount": 250,
+      "book": "2",
+      "sl": "87",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "prabhavathi, Ganesh gowda kalame navoor",
+      "kannada": "ಪ್ರಭಾವತಿ, ಗಣೇಶ ಗೌಡ ಕಲಾಮೆ ನಾವೂರು",
+      "amount": 250,
+      "book": "2",
+      "sl": "88",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "maadhava poojary navoor, sinthaani katte",
+      "kannada": "ಮಾಧವ ಪೂಜಾರಿ ನಾವೂರು, ಸಿಂತಾನಿ ಕಟ್ಟೆ",
+      "amount": 500,
+      "book": "2",
+      "sl": "89",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Santhosh Kotian ekkudelu",
+      "kannada": "ಸಂತೋಷ್ ಕೋಟ್ಯಾನ್ ಎಕ್ಕುಡೇಲು",
+      "amount": 500,
+      "book": "2",
+      "sl": "90",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "geetha lokesh ekkudelu",
+      "kannada": "ಗೀತಾ ಲೋಕೇಶ್ ಎಕ್ಕುಡೇಲು",
+      "amount": 500,
+      "book": "2",
+      "sl": "91",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vijaya gangadhara, ekkudelu",
+      "kannada": "ವಿಜಯ ಗಂಗಾಧರ, ಎಕ್ಕುಡೇಲು",
+      "amount": 500,
+      "book": "2",
+      "sl": "92",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "koosamma , allipaade, quatrus",
+      "kannada": "ಕೂಸಮ್ಮ, ಅಲ್ಲಿಪಾಡೆ, ಕ್ವಾಟ್ರಸ್",
+      "amount": 210,
+      "book": "2",
+      "sl": "93",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Somappa moolya, Kedige bailu",
+      "kannada": "ಸೋಮಪ್ಪ ಮೂಲ್ಯ, ಕೇದಿಗೆ ಬೈಲು",
+      "amount": 100,
+      "book": "2",
+      "sl": "94",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Krishnappa moolya, heerengi",
+      "kannada": "ಕೃಷ್ಣಪ್ಪ ಮೂಲ್ಯ, ಹೀರೆಂಗಿ",
+      "amount": 100,
+      "book": "2",
+      "sl": "95",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ramesh Sheela, karikumeru",
+      "kannada": "ರಮೇಶ್ ಶೀಲಾ, ಕರಿಕುಮೇರು",
+      "amount": 1000,
+      "book": "2",
+      "sl": "96",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Hindu yuva sene bantwala",
+      "kannada": "ಹಿಂದೂ ಯುವ ಸೇನೆ ಬಂಟ್ವಾಳ",
+      "amount": 1000,
+      "book": "2",
+      "sl": "97",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "Yashodha rajesh, ಅಡೆಂಕಿಲದೊಟ್ಟು",
+      "kannada": "ಯಶೋಧಾ ರಾಜೇಶ್, ಅಡೆಂಕಿಲದೊಟ್ಟು",
+      "amount": 250,
+      "book": "2",
+      "sl": "98",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sathish acharya",
+      "kannada": "ಸತೀಶ್ ಆಚಾರ್ಯ",
+      "amount": 100,
+      "book": "2",
+      "sl": "99",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rajesh aacharya, palke darkhaasu",
+      "kannada": "ರಾಜೇಶ್ ಆಚಾರ್ಯ, ಪಲ್ಕೆ ದರ್ಖಾಸು",
+      "amount": 200,
+      "book": "2",
+      "sl": "100",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Harish aacharya, palke darkhasu",
+      "kannada": "ಹರೀಶ್ ಆಚಾರ್ಯ, ಪಲ್ಕೆ ದರ್ಖಾಸು",
+      "amount": 100,
+      "book": "3",
+      "sl": "101",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rajesh nekkare, Daddala kaadu",
+      "kannada": "ರಾಜೇಶ್ ನೆಕ್ಕರೆ, ದಡ್ಡಲ ಕಾಡು",
+      "amount": 300,
+      "book": "3",
+      "sl": "102",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Swathi Rajesh Bhandari, Bantwala",
+      "kannada": "ಸ್ವಾತಿ ರಾಜೇಶ್ ಭಂಡಾರಿ, ಬಂಟ್ವಾಳ",
+      "amount": 5001,
+      "book": "3",
+      "sl": "103",
+      "info": "Advertisement",
+      "year": 2025
+    },
+    {
+      "name": "Thimmappa gowda, Balayuru",
+      "kannada": "ತಿಮ್ಮಪ್ಪ ಗೌಡ, ಬಲಯೂರು",
+      "amount": 200,
+      "book": "3",
+      "sl": "104",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sadananda poojary, paadebetta",
+      "kannada": "ಸದಾನಂದ ಪೂಜಾರಿ, ಪಾದೆಬೆಟ್ಟ",
+      "amount": 200,
+      "book": "3",
+      "sl": "105",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Mamatha raveendra, bhandaribettu, kalai",
+      "kannada": "ಮಮತಾ ರವೀಂದ್ರ, ಭಂಡಾರಿಬೆಟ್ಟು, ಕಲಾಯಿ",
+      "amount": 1111,
+      "book": "3",
+      "sl": "106",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Nanyappa poojary, paKkerottu",
+      "kannada": "ನಾಣ್ಯಪ್ಪ ಪೂಜಾರಿ, ಪಾಕೆರೊಟ್ಟು",
+      "amount": 200,
+      "book": "3",
+      "sl": "107",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Nonayya poojary, patla dadda",
+      "kannada": "ನೋಣಯ್ಯ ಪೂಜಾರಿ, ಪಟ್ಲ ದಡ್ಡ",
+      "amount": 250,
+      "book": "3",
+      "sl": "108",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vasantha poojary, konde",
+      "kannada": "ವಸಂತ ಪೂಜಾರಿ, ಕೊಂಡೆ",
+      "amount": 250,
+      "book": "3",
+      "sl": "109",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Jaya shobha, ujirady",
+      "kannada": "ಜಯ ಶೋಭಾ, ಉಜಿರಾಡಿ",
+      "amount": 1000,
+      "book": "3",
+      "sl": "110",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "Pushpa acharya Sinthaani katte",
+      "kannada": "ಪುಷ್ಪಾ ಆಚಾರ್ಯ ಸಿಂತಾನಿ ಕಟ್ಟೆ",
+      "amount": 250,
+      "book": "3",
+      "sl": "111",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rajamma Padmashekara Jain and children, aliya, roopakiran nivas beedi navoor",
+      "kannada": "ರಾಜಮ್ಮ ಪದ್ಮಶೇಖರ ಜೈನ್ ಮತ್ತು ಮಕ್ಕಳು, ಅಳಿಯ, ರೂಪಕಿರಣ ನಿವಾಸ ಬೀದಿ ನಾವೂರು",
+      "amount": 10000,
+      "book": "3",
+      "sl": "112",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Adiraj k. jain, koyakkude, devashya ಪಡೂರು",
+      "kannada": "ಆದಿರಾಜ್ ಕೆ. ಜೈನ್, ಕೊಯಕ್ಕುಡೆ, ದೇವಶ್ಯ ಪಡೂರು",
+      "amount": 1000,
+      "book": "3",
+      "sl": "113",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shekhara poojary, kerekodi guthu",
+      "kannada": "ಶೇಖರ ಪೂಜಾರಿ, ಕೆರೆಕೋಡಿ ಗುತ್ತು",
+      "amount": 1000,
+      "book": "3",
+      "sl": "114",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Savitha Suchithra, kakke padavu",
+      "kannada": "ಸವಿತಾ ಸುಚಿತ್ರಾ, ಕಕ್ಕೆ ಪದವು",
+      "amount": 255,
+      "book": "3",
+      "sl": "115",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Chandrakanth Jain, Periyaru Guthu",
+      "kannada": "ಚಂದ್ರಕಾಂತ ಜೈನ್, ಪೆರಿಯಾರು ಗುತ್ತು",
+      "amount": 500,
+      "book": "3",
+      "sl": "116",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shanthi prasad Hegde, Marayi dottu",
+      "kannada": "ಶಾಂತಿ ಪ್ರಸಾದ್ ಹೆಗ್ಡೆ, ಮರಾಯಿ ದೊಟ್ಟು",
+      "amount": 500,
+      "book": "3",
+      "sl": "117",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Kishore, Mahalakshmi Nivas ಪಾದಿಲ​",
+      "kannada": "ಕಿಶೋರ್, ಮಹಾಲಕ್ಷ್ಮಿ ನಿವಾಸ್ ಪಾದಿಲ",
+      "amount": 500,
+      "book": "3",
+      "sl": "118",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Mohan poojary, Vignesh Electricals Sinthaani katte, yekkudel",
+      "kannada": "ಮೋಹನ್ ಪೂಜಾರಿ, ವಿಘ್ನೇಶ್ ಇಲೆಕ್ಟ್ರಿಕಲ್ಸ್ ಸಿಂಥಾಣಿ ಕಟ್ಟೆ, ಯೆಕ್ಕುಡೇಲ್",
+      "amount": 1000,
+      "book": "3",
+      "sl": "119",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Prema shrinivas, Ankaragundi",
+      "kannada": "ಪ್ರೇಮಾ ಶ್ರೀನಿವಾಸ್, ಅಂಕರಗುಂಡಿ",
+      "amount": 300,
+      "book": "3",
+      "sl": "120",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Gopal shetty, kaje",
+      "kannada": "ಗೋಪಾಲ್ ಶೆಟ್ಟಿ, ಕಜೆ",
+      "amount": 1000,
+      "book": "3",
+      "sl": "121",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Balakrishna shetty, Aneja",
+      "kannada": "ಬಾಲಕೃಷ್ಣ ಶೆಟ್ಟಿ, ಅನೇಜಾ",
+      "amount": 500,
+      "book": "3",
+      "sl": "122",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Chandrashas ಮೇಂಡ, Aneja",
+      "kannada": "ಚಂದ್ರಶಾಸ್ ಮೇಂಡ, ಅನೇಜ",
+      "amount": 500,
+      "book": "3",
+      "sl": "123",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Geetha Muralidhara, Kayarambu",
+      "kannada": "ಗೀತಾ ಮುರಳೀಧರ, ಕಾಯರಂಬು",
+      "amount": 200,
+      "book": "3",
+      "sl": "124",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Gunakara, Aneja",
+      "kannada": "ಗುಣಕರ, ಅನೇಜಾ",
+      "amount": 200,
+      "book": "3",
+      "sl": "125",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ankur Dubey, Varanasi, Prestige valley crest mangalore",
+      "kannada": "ಅಂಕುರ್ ದುಬೆ, ವಾರಣಾಸಿ, ಪ್ರೆಸ್ಟೀಜ್ ಕಣಿವೆಯ ಶಿಖರ ಮಂಗಳೂರು",
+      "amount": 1000,
+      "book": "3",
+      "sl": "126",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "Aruna Valengoor",
+      "kannada": "ಅರುಣಾ ವಲೆಂಗೂರ್",
+      "amount": 250,
+      "book": "3",
+      "sl": "127",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Jerom Baretto",
+      "kannada": "ಜೆರೋಮ್ ಬರೆಟ್ಟೊ",
+      "amount": 100,
+      "book": "3",
+      "sl": "128",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Thimmappa gowda Kudunja",
+      "kannada": "ತಿಮ್ಮಪ್ಪ ಗೌಡ ಕುಡುಂಜ",
+      "amount": 50,
+      "book": "3",
+      "sl": "129",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Harish shetty, Kedige",
+      "kannada": "ಹರೀಶ್ ಶೆಟ್ಟಿ, ಕೇದಿಗೆ",
+      "amount": 500,
+      "book": "3",
+      "sl": "130",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Prabhakara Acharya, Allipade",
+      "kannada": "ಪ್ರಭಾಕರ ಆಚಾರ್ಯ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 150,
+      "book": "3",
+      "sl": "131",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ganapathi shenoy Badthody and maneyavaru. Ganapathi ನಶ್ಯ​ bantwala",
+      "kannada": "ಗಣಪತಿ ಶೆಣೈ ಬಡ್ತೋಡಿ ಮತ್ತು ಮನೆಯವರು. ಗಣಪತಿ ನಶ್ಯ ಬಂಟ್ವಾಳ",
+      "amount": 10088,
+      "book": "3",
+      "sl": "132",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Jayanthi Sanjeeva shetty, ಮಿನಾಳಿ",
+      "kannada": "ಜಯಂತಿ ಸಂಜೀವ ಶೆಟ್ಟಿ, ಮಿನಾಳಿ",
+      "amount": 500,
+      "book": "3",
+      "sl": "133",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Jayashri harish gowda, kudkunja",
+      "kannada": "ಜಯಶ್ರೀ ಹರೀಶ್ ಗೌಡ, ಕುದ್ಕುಂಜ",
+      "amount": 250,
+      "book": "3",
+      "sl": "134",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Radhakrishna Banjan, Allipade",
+      "kannada": "ರಾಧಾಕೃಷ್ಣ ಬಂಜನ್, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 550,
+      "book": "3",
+      "sl": "135",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rachan rai, Kattada padpu",
+      "kannada": "ರಚನ್ ರೈ, ಕಟ್ಟದ ಪಡ್ಪು",
+      "amount": 200,
+      "book": "3",
+      "sl": "136",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "K. Khadar ಡ್ರೈವರ್, Sulthan katte",
+      "kannada": "ಕೆ. ಖಾದರ್ ಡ್ರೈವರ್, ಸುಲ್ತಾನ್ ಕಟ್ಟೆ",
+      "amount": 100,
+      "book": "3",
+      "sl": "137",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ravindra shetty, kadabettu",
+      "kannada": "ರವೀಂದ್ರ ಶೆಟ್ಟಿ, ಕಡಬೆಟ್ಟು",
+      "amount": 250,
+      "book": "3",
+      "sl": "138",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dharnappa kulal kelagina navoor",
+      "kannada": "ಧರ್ಣಪ್ಪ ಕುಲಾಲ್ ಕೆಳಗಿನ ನಾವೂರು",
+      "amount": 300,
+      "book": "3",
+      "sl": "139",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Lakshmi ಒಡುದಡ್ಕ",
+      "kannada": "ಲಕ್ಷ್ಮಿ ಓಡುದಡ್ಕ",
+      "amount": 200,
+      "book": "3",
+      "sl": "140",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Neelayya Gulabi, ಕುಟ್ಟಿಕಳ allipade",
+      "kannada": "ನೀಲಯ್ಯ ಗುಲಾಬಿ, ಕುಟ್ಟಿಕಳ ಅಲ್ಲಿಪಾದೆ",
+      "amount": 200,
+      "book": "3",
+      "sl": "141",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ವಿಠಲ​ Banjan, Jakribettu",
+      "kannada": "ವಿಠಲ ಬಂಜನ್, ಜಕ್ರಿಬೆಟ್ಟು",
+      "amount": 1000,
+      "book": "3",
+      "sl": "142",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Evelin D'souza, Pundibail",
+      "kannada": "ಎವೆಲಿನ್ ಡಿ'ಸೋಜಾ, ಪುಂಡಿಬೈಲ್",
+      "amount": 250,
+      "book": "3",
+      "sl": "143",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Karunendra poojary, panjikallu",
+      "kannada": "ಕರುಣೇಂದ್ರ ಪೂಜಾರಿ, ಪಂಜಿಕಲ್ಲು",
+      "amount": 500,
+      "book": "3",
+      "sl": "144",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Padmanabha Devadiga, bantwala",
+      "kannada": "ಪದ್ಮನಾಭ ದೇವಾಡಿಗ, ಬಂಟ್ವಾಳ",
+      "amount": 500,
+      "book": "3",
+      "sl": "145",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Lokesh poojary, ಕೆಲ್ಲೇರ್ ಮಾರ್",
+      "kannada": "ಲೋಕೇಶ್ ಪೂಜಾರಿ, ಕೆಲ್ಲೇರ್ ಮಾರ್",
+      "amount": 500,
+      "book": "3",
+      "sl": "146",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shivaraya nayak, nekkilaru",
+      "kannada": "ಶಿವರಾಯ ನಾಯಕ್, ನೆಕ್ಕಿಲಾರು",
+      "amount": 1000,
+      "book": "3",
+      "sl": "147",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "roopa putur",
+      "kannada": "ರೂಪಾ ಪುತೂರ್",
+      "amount": 500,
+      "book": "3",
+      "sl": "148",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ranjitha dinesh shetty, ಬಜ",
+      "kannada": "ರಂಜಿತ ದಿನೇಶ್ ಶೆಟ್ಟಿ, ಬಜ",
+      "amount": 500,
+      "book": "3",
+      "sl": "149",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Suresh Moolya, Poopadikatte",
+      "kannada": "ಸುರೇಶ್ ಮೂಲ್ಯ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 200,
+      "book": "3",
+      "sl": "150",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Seetharama shetty, B.C.ROAD",
+      "kannada": "ಸೀತಾರಾಮ ಶೆಟ್ಟಿ, ಬಿ.ಸಿ.ರೋಡ್",
+      "amount": 10000,
+      "book": "4",
+      "sl": "151",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Giriyappa bangera ನುತಾ೯ಡಿ",
+      "kannada": "ಗಿರಿಯಪ್ಪ ಬಂಗೇರ ನುತಾ೯ಡಿ",
+      "amount": 250,
+      "book": "4",
+      "sl": "152",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Somappa poojary yekkudel",
+      "kannada": "ಸೋಮಪ್ಪ ಪೂಜಾರಿ ಯೆಕ್ಕುಡೇಲ್",
+      "amount": 500,
+      "book": "4",
+      "sl": "153",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Janardhan shobha ಪಾದಿಲ​",
+      "kannada": "ಜನಾರ್ಧನ್ ಶೋಭಾ ಪಾಡಿಲ",
+      "amount": 200,
+      "book": "4",
+      "sl": "154",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vijayalakshmi aneja",
+      "kannada": "ವಿಜಯಲಕ್ಷ್ಮಿ ಅನೇಜಾ",
+      "amount": 250,
+      "book": "4",
+      "sl": "155",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sheela aithappa bangera",
+      "kannada": "ಶೀಲಾ ಐತಪ್ಪ ಬಂಗೇರ",
+      "amount": 250,
+      "book": "4",
+      "sl": "156",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sundara aruna ಮಿನಾಳಿ",
+      "kannada": "ಸುಂದರ ಅರುಣ ಮಿನಾಳಿ",
+      "amount": 200,
+      "book": "4",
+      "sl": "157",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Pushparaj Kella kere Belthangady",
+      "kannada": "ಪುಷ್ಪರಾಜ್ ಕೆಲ್ಲ ಕೆರೆ ಬೆಳ್ತಂಗಡಿ",
+      "amount": 1000,
+      "book": "4",
+      "sl": "158",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "Sushanth Poopadikatte",
+      "kannada": "ಸುಶಾಂತ್ ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 500,
+      "book": "4",
+      "sl": "159",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dharmashree Umesh Beeyapaade",
+      "kannada": "ಧರ್ಮಶ್ರೀ ಉಮೇಶ್ ಬೀಯಪಾಡೆ",
+      "amount": 100,
+      "book": "4",
+      "sl": "160",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shantha koragappa poojary, kere kodi",
+      "kannada": "ಶಾಂತಾ ಕೊರಗಪ್ಪ ಪೂಜಾರಿ, ಕೆರೆ ಕೋಡಿ",
+      "amount": 100,
+      "book": "4",
+      "sl": "161",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rohini Devayya beeyapaade",
+      "kannada": "ರೋಹಿಣಿ ದೇವಯ್ಯ ಬೀಯಪಾಡೆ",
+      "amount": 100,
+      "book": "4",
+      "sl": "162",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vimala damodara bapu kodi",
+      "kannada": "ವಿಮಲ ದಾಮೋದರ ಬಾಪು ಕೋಡಿ",
+      "amount": 150,
+      "book": "4",
+      "sl": "163",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ananda koodi bailu",
+      "kannada": "ಆನಂದ ಕೂಡಿ ಬೈಲು",
+      "amount": 200,
+      "book": "4",
+      "sl": "164",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Geetha yashodhara, ujiradi allipade",
+      "kannada": "ಗೀತಾ ಯಶೋಧರ, ಉಜಿರಾಡಿ ಅಲ್ಲಿಪಾದೆ",
+      "amount": 100,
+      "book": "4",
+      "sl": "165",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shree Durga home products, Kanginadi, sarapady",
+      "kannada": "ಶ್ರೀ ದುರ್ಗಾ ಹೋಮ್ ಪ್ರಾಡಕ್ಟ್ಸ್, ಕಂಗಿನಡಿ, ಸಾರಪಾಡಿ",
+      "amount": 2000,
+      "book": "4",
+      "sl": "166",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Babu moolya kodagu",
+      "kannada": "ಬಾಬು ಮೂಲ್ಯ ಕೊಡಗು",
+      "amount": 150,
+      "book": "4",
+      "sl": "167",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shreedhara moolya kodagu allipade",
+      "kannada": "ಶ್ರೀಧರ ಮೂಲ್ಯ ಕೊಡಗು ಅಲ್ಲಿಪಾದೆ",
+      "amount": 200,
+      "book": "4",
+      "sl": "168",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sadashiva poonja ಪಾದಿಲ​",
+      "kannada": "ಸದಾಶಿವ ಪೂಂಜಾ ಪಾದಿಲ",
+      "amount": 1000,
+      "book": "4",
+      "sl": "169",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Jayaananda Kakkepadav (Nandini MILK)",
+      "kannada": "ಜಯಾನಂದ ಕಕ್ಕೆಪದವ್ (ನಂದಿನಿ ಹಾಲು)",
+      "amount": 200,
+      "book": "4",
+      "sl": "170",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sundara naika ಪಾದಿಲ​",
+      "kannada": "ಸುಂದರ ನಾಯ್ಕ ಪಾಡಿಲ",
+      "amount": 500,
+      "book": "4",
+      "sl": "171",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Varadaraj V bangera aneja",
+      "kannada": "ವರದರಾಜ್ ವಿ ಬಂಗೇರ ಅನೇಜ",
+      "amount": 500,
+      "book": "4",
+      "sl": "172",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Gulabi Chandappa naika poopadikatte",
+      "kannada": "ಗುಲಾಬಿ ಚಂದಪ್ಪ ನಾಯಿಕ ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "4",
+      "sl": "173",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "Sathish Karkera allipade",
+      "kannada": "ಸತೀಶ್ ಕರ್ಕೇರ ಅಲ್ಲಿಪಡೆ",
+      "amount": 500,
+      "book": "4",
+      "sl": "174",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ganesh ಮಾಲಬೆ allipade",
+      "kannada": "ಗಣೇಶ ಮಾಲಬೆ ಅಲ್ಲಿಪಾಡೆ",
+      "amount": 300,
+      "book": "4",
+      "sl": "175",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sudhakara shetty heggade kodi sarapady",
+      "kannada": "ಸುಧಾಕರ ಶೆಟ್ಟಿ ಹೆಗ್ಗಡೆ ಕೋಡಿ ಸರಪಾಡಿ",
+      "amount": 1500,
+      "book": "4",
+      "sl": "176",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vishwanatha gowda munnalayi balLLi",
+      "kannada": "ವಿಶ್ವನಾಥ ಗೌಡ ಮುನ್ನಾಲಾಯಿ ಬಳ್ಳಿ",
+      "amount": 200,
+      "book": "4",
+      "sl": "177",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Radhakrishna mayya ಮುಲ್ಕಾಜೆ ಮಾಡ​, ಅದ್ಯಕ್ಷರು ಮಣಿನಾಲ್ಕೂರು ವ್ಯವಸಾಯ ಸೆವಾ ಸಹಕಾರಿ bank, Sarapady",
+      "kannada": "ರಾಧಾಕೃಷ್ಣ ಮಯ್ಯ ಮುಲ್ಕಾಜೆ ಮಾಡ, ಅದ್ಯಕ್ಷರು ಮಣಿನಾಲ್ಕೂರು ವ್ಯವಸಾಯ ಸೇವಾ ಸಹಕಾರಿ ಬ್ಯಾಂಕ್, ಸಾರಪಾಡಿ",
+      "amount": 1000,
+      "book": "4",
+      "sl": "178",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Radhakrisha rai kottunja, sharabeshwara TRADERS",
+      "kannada": "ರಾಧಾಕೃಷ್ಣ ರೈ ಕೊಟ್ಟುಂಜ, ಶರಬೇಶ್ವರ ಟ್ರೇಡರ್ಸ್",
+      "amount": 1000,
+      "book": "4",
+      "sl": "179",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Kotyappa keLagina navoor",
+      "kannada": "ಕೋಟ್ಯಪ್ಪ ಕೆಲಗಿನ ನವೂರ್",
+      "amount": 200,
+      "book": "4",
+      "sl": "180",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "K vishwanatha poojary, vishwa jyothi nilaya kedige parari",
+      "kannada": "ಕೆ ವಿಶ್ವನಾಥ ಪೂಜಾರಿ, ವಿಶ್ವ ಜ್ಯೋತಿ ನಿಲಯ ಕೇದಿಗೆ ಪರಾರಿ",
+      "amount": 1000,
+      "book": "4",
+      "sl": "181",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Prashanth nayak mavina katte",
+      "kannada": "ಪ್ರಶಾಂತ್ ನಾಯಕ್ ಮಾವಿನ ಕಟ್ಟೆ",
+      "amount": 500,
+      "book": "4",
+      "sl": "182",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Kushmith palke darkhas",
+      "kannada": "ಕುಶ್ಮಿತ್ ಪಾಲ್ಕೆ ದರ್ಖಾಸ್",
+      "amount": 100,
+      "book": "4",
+      "sl": "183",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Savithri acharya ಬಟ್ರೊಡಿ",
+      "kannada": "ಸಾವಿತ್ರಿ ಆಚಾರ್ಯ ಬಟ್ರೊಡಿ",
+      "amount": 100,
+      "book": "4",
+      "sl": "184",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Narayana kulal kapikaadu",
+      "kannada": "ನಾರಾಯಣ ಕುಲಾಲ್ ಕಪಿಕಾಡು",
+      "amount": 100,
+      "book": "4",
+      "sl": "185",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sukumara aariga atlotu guthu",
+      "kannada": "ಸುಕುಮಾರ ಅರಿಗ ಅತ್ಲೋಟು ಗುತ್ತು",
+      "amount": 1000,
+      "book": "4",
+      "sl": "186",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Bhavani shankar rao, Kedige",
+      "kannada": "ಭವಾನಿ ಶಂಕರ್ ರಾವ್, ಕೇದಿಗೆ",
+      "amount": 505,
+      "book": "4",
+      "sl": "187",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Prasad acharya, poopadikatte",
+      "kannada": "ಪ್ರಸಾದ್ ಆಚಾರ್ಯ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 250,
+      "book": "4",
+      "sl": "188",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Prema D Nayka poopadikatte",
+      "kannada": "ಪ್ರೇಮಾ ಡಿ ನಾಯ್ಕ ಪೂಪಾದಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "4",
+      "sl": "189",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "Dharanendra jain perla",
+      "kannada": "ಧರಣೇಂದ್ರ ಜೈನ್ ಪೆರ್ಲಾ",
+      "amount": 500,
+      "book": "4",
+      "sl": "190",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Krishnappa beeyapade",
+      "kannada": "ಕೃಷ್ಣಪ್ಪ ಬೀಯಪಾದೆ",
+      "amount": 200,
+      "book": "4",
+      "sl": "191",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Thaniyappa saliyan kedige",
+      "kannada": "ತನಿಯಪ್ಪ ಸಾಲಿಯಾನ್ ಕೆದಿಗೆ",
+      "amount": 700,
+      "book": "4",
+      "sl": "192",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Savitha thilak shanthi baapukodi",
+      "kannada": "ಸವಿತಾ ತಿಲಕ ಶಾಂತಿ ಬಾಪುಕೋಡಿ",
+      "amount": 500,
+      "book": "4",
+      "sl": "193",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sadananda shenoy poopadikatte",
+      "kannada": "ಸದಾನಂದ ಶೆಣೈ ಪೂಪಾದಿಕಟ್ಟೆ",
+      "amount": 500,
+      "book": "4",
+      "sl": "194",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Udaya nayak maangaje",
+      "kannada": "ಉದಯ ನಾಯಕ್ ಮಾಂಗಾಜೆ",
+      "amount": 500,
+      "book": "4",
+      "sl": "195",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ganesh acharya ajila mogaru",
+      "kannada": "ಗಣೇಶ್ ಆಚಾರ್ಯ ಅಜಿಲ ಮೊಗರು",
+      "amount": 250,
+      "book": "4",
+      "sl": "196",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sundari sanjeeva sapalya shanthi palke",
+      "kannada": "ಸುಂದರಿ ಸಂಜೀವ ಸಪಲ್ಯ ಶಾಂತಿ ಪಲ್ಕೆ ॥",
+      "amount": 150,
+      "book": "4",
+      "sl": "197",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Padmavathy ramesh poojary kempu gudde",
+      "kannada": "ಪದ್ಮಾವತಿ ರಮೇಶ್ ಪೂಜಾರಿ ಕೆಂಪು ಗುಡ್ಡೆ",
+      "amount": 250,
+      "book": "4",
+      "sl": "198",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vimala harish ujirady allipade",
+      "kannada": "ವಿಮಲಾ ಹರೀಶ್ ಉಜಿರಾಡಿ ಅಲ್ಲಿಪಾದೆ",
+      "amount": 200,
+      "book": "4",
+      "sl": "199",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shree lakshmi venkataramana FLOWERS mavina katte",
+      "kannada": "ಶ್ರೀ ಲಕ್ಷ್ಮೀ ವೆಂಕಟರಮಣ ಹೂಗಳು ಮಾವಿನ ಕಟ್ಟೆ",
+      "amount": 500,
+      "book": "4",
+      "sl": "200",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Suresh acharya, malekodi",
+      "kannada": "ಸುರೇಶ್ ಆಚಾರ್ಯ, ಮಲೆಕೋಡಿ",
+      "amount": 100,
+      "book": "5",
+      "sl": "201",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Maanikya raj jain, maangaaje guthu vagga",
+      "kannada": "ಮಾಣಿಕ್ಯ ರಾಜ್ ಜೈನ್, ಮಾಂಗಾಜೆ ಗುತ್ತು ವಗ್ಗ",
+      "amount": 250,
+      "book": "5",
+      "sl": "202",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Girija ಇಂಡಿಜಾರು",
+      "kannada": "ಗಿರಿಜಾ ಇಂಡಿಜಾರು",
+      "amount": 200,
+      "book": "5",
+      "sl": "203",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ramanatha ಇಂಡಿಜಾರು",
+      "kannada": "ರಾಮನಾಥ ಇಂಡಿಜಾರು",
+      "amount": 300,
+      "book": "5",
+      "sl": "204",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shanthappa koodybailu hosamane",
+      "kannada": "ಶಾಂತಪ್ಪ ಕೂಡಿಬೈಲು ಹೊಸಮನೆ",
+      "amount": 100,
+      "book": "5",
+      "sl": "205",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rajesh Nayak nekkilaaru",
+      "kannada": "ರಾಜೇಶ್ ನಾಯಕ್ ನೆಕ್ಕಿಲಾರು",
+      "amount": 600,
+      "book": "5",
+      "sl": "206",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ananda shetty ಬಜ",
+      "kannada": "ಆನಂದ ಶೆಟ್ಟಿ ಬಜ",
+      "amount": 500,
+      "book": "5",
+      "sl": "207",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vasanthi praveen ಪಾಲ್ದ ಪಲ್ಕೆ",
+      "kannada": "Vasanthi praveen ಪಾಲ್ದ ಪಲ್ಕೆ",
+      "amount": 500,
+      "book": "5",
+      "sl": "208",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Gilbert noronha, nekkaraje",
+      "kannada": "ಗಿಲ್ಬರ್ಟ್ ನೊರೊನ್ಹಾ, ನೆಕ್ಕರಾಜೆ",
+      "amount": 1000,
+      "book": "5",
+      "sl": "209",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dhanpal puthran, chithraapu mangalore",
+      "kannada": "ಧನಪಾಲ್ ಪುತ್ರನ್, ಚಿತ್ರಾಪು ಮಂಗಳೂರು",
+      "amount": 2000,
+      "book": "5",
+      "sl": "210",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Harini v salyan, mangalore",
+      "kannada": "ಹರಿಣಿ ವಿ ಸಾಲ್ಯಾನ್, ಮಂಗಳೂರು",
+      "amount": 2000,
+      "book": "5",
+      "sl": "211",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Aboobakkar kenjaar, surathkal",
+      "kannada": "ಅಬೂಬಕ್ಕರ್ ಕೆಂಜಾರ್, ಸುರತ್ಕಲ್",
+      "amount": 2000,
+      "book": "5",
+      "sl": "212",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Chandrahas kottary, mangalore",
+      "kannada": "ಚಂದ್ರಹಾಸ ಕೊಟ್ಟಾರಿ, ಮಂಗಳೂರು",
+      "amount": 1000,
+      "book": "5",
+      "sl": "213",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Aithappa salyan, kedige",
+      "kannada": "ಐತಪ್ಪ ಸಾಲ್ಯಾನ್, ಕೆದಿಗೆ",
+      "amount": 300,
+      "book": "5",
+      "sl": "214",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Deekayya salyan, malabe",
+      "kannada": "ಡೀಕಯ್ಯ ಸಾಲ್ಯಾನ್, ಮಲಾಬೆ",
+      "amount": 300,
+      "book": "5",
+      "sl": "215",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ಮತ್ತಾಡಿ, Allipade",
+      "kannada": "ಮತ್ತಾಡಿ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 250,
+      "book": "5",
+      "sl": "216",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ashok swathi, ಪಾದಿಲ​",
+      "kannada": "ಅಶೋಕ್ ಸ್ವಾತಿ, ಪಾದಿಲ",
+      "amount": 250,
+      "book": "5",
+      "sl": "217",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Deepak shetty, kukkila",
+      "kannada": "ದೀಪಕ್ ಶೆಟ್ಟಿ, ಕುಕ್ಕಿಲ",
+      "amount": 1001,
+      "book": "5",
+      "sl": "218",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vedaavathy jayarama kottary arkula",
+      "kannada": "ವೇದಾವತಿ ಜಯರಾಮ ಕೊಟ್ಟಾರಿ ಅರ್ಕುಳ",
+      "amount": 500,
+      "book": "5",
+      "sl": "219",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "pushpaavathy ಮುನ್ನಲಾಯಿ",
+      "kannada": "pushpaavathy ಮುನ್ನಲಾಯಿ",
+      "amount": 200,
+      "book": "5",
+      "sl": "220",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "jayaraama adapa decchaaru",
+      "kannada": "ಜಯರಾಮ ಅಡಪ ದೆಚ್ಚರು",
+      "amount": 500,
+      "book": "5",
+      "sl": "221",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "raveendra shetty kaiyyala",
+      "kannada": "ರವೀಂದ್ರ ಶೆಟ್ಟಿ ಕೈಯ್ಯಾಳ",
+      "amount": 500,
+      "book": "5",
+      "sl": "222",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "lokananda adapa aneja",
+      "kannada": "ಲೋಕಾನಂದ ಅಡಪ ಅನೇಜ",
+      "amount": 500,
+      "book": "5",
+      "sl": "223",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Eeramma navoor",
+      "kannada": "ಈರಮ್ಮ ನವೂರ್",
+      "amount": 100,
+      "book": "5",
+      "sl": "224",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dinnu allipade",
+      "kannada": "ದಿನ್ನು ಅಲ್ಲಿಪಡೆ",
+      "amount": 500,
+      "book": "5",
+      "sl": "225",
+      "info": "Advertisement",
+      "year": 2025
+    },
+    {
+      "name": "Shrikanth kavya allipade",
+      "kannada": "ಶ್ರೀಕಾಂತ್ ಕಾವ್ಯ ಅಲ್ಲಿಪಡೆ",
+      "amount": 200,
+      "book": "5",
+      "sl": "226",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Jayaananda allipade",
+      "kannada": "ಜಯಾನಂದ ಅಲ್ಲಿಪಡೆ",
+      "amount": 500,
+      "book": "5",
+      "sl": "227",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vincent pinto, allipade",
+      "kannada": "ವಿನ್ಸೆಂಟ್ ಪಿಂಟೊ, ಅಲ್ಲಿಪಡೆ",
+      "amount": 500,
+      "book": "5",
+      "sl": "228",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Varsha thrisha, sinthani katte",
+      "kannada": "ವರ್ಷಾ ತ್ರಿಶ, ಸಿಂತಾನಿ ಕಟ್ಟೆ",
+      "amount": 200,
+      "book": "5",
+      "sl": "229",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Jaya poojary malabe allipade",
+      "kannada": "ಜಯ ಪೂಜಾರಿ ಮಾಲಬೆ ಅಲ್ಲಿಪಾದೆ",
+      "amount": 210,
+      "book": "5",
+      "sl": "230",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Leelavathy shetty Munnalayi",
+      "kannada": "ಲೀಲಾವತಿ ಶೆಟ್ಟಿ ಮುನ್ನಲೈ",
+      "amount": 200,
+      "book": "5",
+      "sl": "231",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shridhara neralakatte",
+      "kannada": "ಶ್ರೀಧರ ನೇರಳಕಟ್ಟೆ",
+      "amount": 300,
+      "book": "5",
+      "sl": "232",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shrinivasa shenoy, koody Bailu",
+      "kannada": "ಶ್ರೀನಿವಾಸ ಶೆಣೈ, ಕೂಡಿ ಬೈಲು",
+      "amount": 1500,
+      "book": "5",
+      "sl": "233",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Chandrashekara Brahmari studio Allipade",
+      "kannada": "ಚಂದ್ರಶೇಖರ ಬ್ರಹ್ಮರಿ ಸ್ಟುಡಿಯೋ ಅಲ್ಲಿಪಾದೆ",
+      "amount": 1001,
+      "book": "5",
+      "sl": "234",
+      "info": "Advertisement",
+      "year": 2025
+    },
+    {
+      "name": "Preksha navoor",
+      "kannada": "ಪ್ರೇಕ್ಷಾ ನವೂರ್",
+      "amount": 500,
+      "book": "5",
+      "sl": "235",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Kavitha naveen shetty aneja",
+      "kannada": "ಕವಿತಾ ನವೀನ್ ಶೆಟ್ಟಿ ಅನೇಜಾ",
+      "amount": 510,
+      "book": "5",
+      "sl": "236",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Venkappaಮುಡ್ಕರ ಪಲ್ಕೆ",
+      "kannada": "ವೆಂಕಪ್ಪಮುಡ್ಕರ ಪಲ್ಕೆ",
+      "amount": 1000,
+      "book": "5",
+      "sl": "237",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Jayanthi poopadikatte",
+      "kannada": "ಜಯಂತಿ ಪೂಪಡಿಕಟ್ಟೆ",
+      "amount": 305,
+      "book": "5",
+      "sl": "238",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Mithila dinesh kottary, karikumeru",
+      "kannada": "ಮಿಥಿಲಾ ದಿನೇಶ್ ಕೊಟ್ಟಾರಿ, ಕರಿಕುಮೇರು",
+      "amount": 1010,
+      "book": "5",
+      "sl": "239",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ananda poojary sinthani katte",
+      "kannada": "ಆನಂದ ಪೂಜಾರಿ ಸಿಂಥನಿ ಕಟ್ಟೆ",
+      "amount": 200,
+      "book": "5",
+      "sl": "240",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Poornima jagadish acharya sinthani katte",
+      "kannada": "ಪೂರ್ಣಿಮಾ ಜಗದೀಶ್ ಆಚಾರ್ಯ ಸಿಂತಾನಿ ಕಟ್ಟೆ",
+      "amount": 300,
+      "book": "5",
+      "sl": "241",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Veerappa nerala katte",
+      "kannada": "ವೀರಪ್ಪ ನೇರಳ ಕಟ್ಟೆ",
+      "amount": 250,
+      "book": "5",
+      "sl": "242",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ashok padeel bettu",
+      "kannada": "ಅಶೋಕ್ ಪಡೀಲ್ ಬೆಟ್ಟು",
+      "amount": 250,
+      "book": "5",
+      "sl": "243",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Purandara acharya sinthani katte",
+      "kannada": "ಪುರಂದರ ಆಚಾರ್ಯ ಸಿಂಥಣಿ ಕಟ್ಟೆ",
+      "amount": 300,
+      "book": "5",
+      "sl": "244",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Appi poojary kukkila",
+      "kannada": "ಅಪ್ಪಿ ಪೂಜಾರಿ ಕುಕ್ಕಿಲ",
+      "amount": 250,
+      "book": "5",
+      "sl": "245",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sudhakar shetty shree devi krupa ಮುನ್ನಲಾಯಿ",
+      "kannada": "Sudhakar shetty shree devi krupa ಮುನ್ನಲಾಯಿ",
+      "amount": 300,
+      "book": "5",
+      "sl": "246",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rohini prashanth acharya sinthani katte",
+      "kannada": "ರೋಹಿಣಿ ಪ್ರಶಾಂತ್ ಆಚಾರ್ಯ ಸಿಂತಾನಿ ಕಟ್ಟೆ",
+      "amount": 100,
+      "book": "5",
+      "sl": "247",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rathnakar poojary pundi bailu",
+      "kannada": "ರತ್ನಾಕರ್ ಪೂಜಾರಿ ಪುಂಡಿ ಬೈಲು",
+      "amount": 300,
+      "book": "5",
+      "sl": "248",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sudarshan ಬಜ",
+      "kannada": "ಸುದರ್ಶನ್ ಬಜ",
+      "amount": 1000,
+      "book": "5",
+      "sl": "249",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Muthappa poojary nekkilaar",
+      "kannada": "ಮುತ್ತಪ್ಪ ಪೂಜಾರಿ ನೆಕ್ಕಿಲಾರ್",
+      "amount": 500,
+      "book": "5",
+      "sl": "250",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Narayana salyan kinyoor",
+      "kannada": "ನಾರಾಯಣ ಸಾಲ್ಯಾನ್ ಕಿನ್ಯೂರ್",
+      "amount": 350,
+      "book": "6",
+      "sl": "251",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "P Jinaraj aariga pacchaje guthu",
+      "kannada": "ಪಿ ಜಿನರಾಜ್ ಆರಿಗ ಪಚ್ಚಾಜೆ ಗುತ್ತು",
+      "amount": 500,
+      "book": "6",
+      "sl": "252",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Prabhakara Mechanic madimaal bettu",
+      "kannada": "ಪ್ರಭಾಕರ ಮೆಕ್ಯಾನಿಕ್ ಮಡಿಮಾಲ್ ಬೆಟ್ಟು",
+      "amount": 300,
+      "book": "6",
+      "sl": "253",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shreedhara shetty ಮುನ್ನಲಾಯಿ",
+      "kannada": "ಶ್ರೀಧರ ಶೆಟ್ಟಿ ಮುನ್ನಲಾಯಿ",
+      "amount": 500,
+      "book": "6",
+      "sl": "254",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Jagannatha rai aisiri ಗಾಂಪ್ಲೋಡಿ",
+      "kannada": "ಜಗನ್ನಾಥ ರೈ ಐಸಿರಿ ಗಾಂಪ್ಲೋಡಿ",
+      "amount": 500,
+      "book": "6",
+      "sl": "255",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "lingappa poojary ಮಲೆಕೋಡಿ",
+      "kannada": "lingappa poojary ಮಲೆಕೋಡಿ",
+      "amount": 200,
+      "book": "6",
+      "sl": "256",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "raghu shetty paddaayooru guthu",
+      "kannada": "ರಘು ಶೆಟ್ಟಿ ಪಡ್ಡಾಯೂರು ಗುತ್ತು",
+      "amount": 1000,
+      "book": "6",
+      "sl": "257",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "purushothama aalampuri padavu",
+      "kannada": "ಪುರುಷೋತ್ತಮ ಆಲಂಪುರಿ ಪದವು",
+      "amount": 150,
+      "book": "6",
+      "sl": "258",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ganesh nayka sinthani katte",
+      "kannada": "ಗಣೇಶ್ ನಾಯ್ಕ ಸಿಂಥಾನಿ ಕಟ್ಟೆ",
+      "amount": 200,
+      "book": "6",
+      "sl": "259",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "M. chandrahasa shetty mulkaaje mada",
+      "kannada": "ಎಂ. ಚಂದ್ರಹಾಸ ಶೆಟ್ಟಿ ಮುಲ್ಕಾಜೆ ಮಾಡಾ",
+      "amount": 510,
+      "book": "6",
+      "sl": "260",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ಬಲ್ಲು ಬಾವಂತ ಬೆಟ್ಟು",
+      "kannada": "ಬಲ್ಲು ಬಾವಂತ ಬೆಟ್ಟು",
+      "amount": 200,
+      "book": "6",
+      "sl": "261",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "shailaja ಮುದಿಮರ​",
+      "kannada": "ಶೈಲಜಾ ಮುದಿಮರ",
+      "amount": 200,
+      "book": "6",
+      "sl": "262",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "narayana salyan poopadikatte",
+      "kannada": "ನಾರಾಯಣ ಸಾಲ್ಯಾನ್ ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 200,
+      "book": "6",
+      "sl": "263",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ಗಿರಿಜಾ ಶೆಟ್ಟಿ ಮುನ್ನಲಾಯಿ",
+      "kannada": "ಗಿರಿಜಾ ಮುನ್ನ ಶೆಟ್ಟಿಲಾಯಿ",
+      "amount": 250,
+      "book": "6",
+      "sl": "264",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ganesh anchan aneja",
+      "kannada": "ಗಣೇಶ್ ಅಂಚನ್ ಅನೇಜಾ",
+      "amount": 200,
+      "book": "6",
+      "sl": "265",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "yamunaa and maneyavaru yekkudelu kadavina ಬಳಿ",
+      "kannada": "yamunaa and maneyavaru yekkudelu kadavina ಬಳಿ",
+      "amount": 555,
+      "book": "6",
+      "sl": "266",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "jagannath prema ambedkar colony navoor",
+      "kannada": "ಜಗನ್ನಾಥ ಪ್ರೇಮ ಅಂಬೇಡ್ಕರ್ ಕಾಲೋನಿ ನಾವೂರು",
+      "amount": 250,
+      "book": "6",
+      "sl": "267",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "raghu poojary yerukadapu",
+      "kannada": "ರಘು ಪೂಜಾರಿ ಯೆರುಕಡಪು",
+      "amount": 500,
+      "book": "6",
+      "sl": "268",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "suresh shetty meeyar sarapady",
+      "kannada": "ಸುರೇಶ್ ಶೆಟ್ಟಿ ಮೀಯಾರ್ ಸರಪಾಡಿ",
+      "amount": 2000,
+      "book": "6",
+      "sl": "269",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sathish naayka sithanikatte",
+      "kannada": "ಸತೀಶ್ ನಾಯಕ ಸಿತಾನಿಕಟ್ಟೆ",
+      "amount": 500,
+      "book": "6",
+      "sl": "270",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Deekayya naayka ಪಾದಿಲ​",
+      "kannada": "ಡೀಕಯ್ಯ ನಾಯ್ಕ ಪಾಡಿಲ",
+      "amount": 150,
+      "book": "6",
+      "sl": "271",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "gopala kottary poopadikatte",
+      "kannada": "ಗೋಪಾಲ ಕೊಟ್ಟಾರಿ ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 300,
+      "book": "6",
+      "sl": "272",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "jagadeesh bhandary, sneha saloon allipade",
+      "kannada": "ಜಗದೀಶ ಭಂಡಾರಿ, ಸ್ನೇಹ ಸಲೂನ್ ಅಲ್ಲಿಪಾದೆ",
+      "amount": 550,
+      "book": "6",
+      "sl": "273",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sharada kariya sapalya, minaali",
+      "kannada": "ಶಾರದ ಕರಿಯ ಸಪಲ್ಯ, ಮಿನಾಲಿ",
+      "amount": 250,
+      "book": "6",
+      "sl": "274",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "janardhana poojary, ಬಡ್ಲಾಂ",
+      "kannada": "ಜನಾರ್ಧನ ಪೂಜಾರಿ, ಬಡ್ಲಾಂ",
+      "amount": 250,
+      "book": "6",
+      "sl": "275",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "kushalakshi, ಮಾಲಬೆ",
+      "kannada": "ಕುಶಲಾಕ್ಷಿ, ಮಾಲಬೆ",
+      "amount": 300,
+      "book": "6",
+      "sl": "276",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ganesh poojary, ujirady",
+      "kannada": "ಗಣೇಶ ಪೂಜಾರಿ, ಉಜಿರಾಡಿ",
+      "amount": 250,
+      "book": "6",
+      "sl": "277",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "N. Krishnappa mestri, nerala katte",
+      "kannada": "ಎನ್.ಕೃಷ್ಣಪ್ಪ ಮೇಸ್ತ್ರಿ, ನೇರಳ ಕಟ್ಟೆ",
+      "amount": 500,
+      "book": "6",
+      "sl": "278",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "yashodhara maandrodi",
+      "kannada": "ಯಶೋಧರ ಮಾಂದ್ರೋಡಿ",
+      "amount": 1005,
+      "book": "6",
+      "sl": "279",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vasantha poojary, porkala",
+      "kannada": "ವಸಂತ ಪೂಜಾರಿ, ಪೋರ್ಕಳ",
+      "amount": 150,
+      "book": "6",
+      "sl": "280",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "baby kundar, president, Buda bantwal",
+      "kannada": "ಬೇಬಿ ಕುಂದರ್, ಅಧ್ಯಕ್ಷರು, ಬುಡಾ ಬಂಟ್ವಾಳ",
+      "amount": 1000,
+      "book": "6",
+      "sl": "281",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "pushparaj ತಜಂಕೊಟ್ಟು, navoor",
+      "kannada": "ಪುಷ್ಪರಾಜ್ ತಜಂಕೊಟ್ಟು, ನವೂರ್",
+      "amount": 500,
+      "book": "6",
+      "sl": "282",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ashoka yuvaraj, navoor ಆದರ್ಕಲ",
+      "kannada": "ಅಶೋಕ ಯುವರಾಜ್, ನಾವೂರ್ ಆದರ್ಕಲ",
+      "amount": 2000,
+      "book": "6",
+      "sl": "283",
+      "info": "Advertisement",
+      "year": 2025
+    },
+    {
+      "name": "paarvathy yekkudel",
+      "kannada": "ಪಾರ್ವತಿ ಯೆಕ್ಕುಡೇಲ್",
+      "amount": 300,
+      "book": "6",
+      "sl": "284",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ಚಿತ್ತರಂಜನ್ ವಲೆಂಗೂರು",
+      "kannada": "ಚಿತ್ತರಂಜನ್ ವಲೆಂಗೂರು",
+      "amount": 500,
+      "book": "6",
+      "sl": "285",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "shiva FRIENDS pakala bettu",
+      "kannada": "ಶಿವ ಸ್ನೇಹಿತರು ಪಕಳ ಬೆಟ್ಟು",
+      "amount": 1001,
+      "book": "6",
+      "sl": "286",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "bhavaani maangaaje",
+      "kannada": "ಭವಾನಿ ಮಾಂಗಾಜೆ",
+      "amount": 100,
+      "book": "6",
+      "sl": "287",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "raju poojary, shanthy guri",
+      "kannada": "ರಾಜು ಪೂಜಾರಿ, ಶಾಂತಿ ಗುರಿ",
+      "amount": 200,
+      "book": "6",
+      "sl": "288",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "purshothama ಅಡೆಂಕಿಲದೊಟ್ಟು",
+      "kannada": "purshothama ಅಡೆಂಕಿಲದೊಟ್ಟು",
+      "amount": 200,
+      "book": "6",
+      "sl": "289",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "dinesh poojary, ujiradi guthu",
+      "kannada": "ದಿನೇಶ್ ಪೂಜಾರಿ, ಉಜಿರಡಿ ಗುತ್ತು",
+      "amount": 500,
+      "book": "6",
+      "sl": "290",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sarojini kedige parari",
+      "kannada": "ಸರೋಜಿನಿ ಕೆದಿಗೆ ಪರಾರಿ",
+      "amount": 1000,
+      "book": "6",
+      "sl": "291",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "dayananda shamitha kedige",
+      "kannada": "ದಯಾನಂದ ಶಮಿತಾ ಕೇದಿಗೆ",
+      "amount": 500,
+      "book": "6",
+      "sl": "292",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ramesh acharya poopadikatte",
+      "kannada": "ರಮೇಶ್ ಆಚಾರ್ಯ ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 300,
+      "book": "6",
+      "sl": "293",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "pramodini umesh, baapu kodi",
+      "kannada": "ಪ್ರಮೋದಿನಿ ಉಮೇಶ್, ಬಾಪು ಕೋಡಿ",
+      "amount": 100,
+      "book": "6",
+      "sl": "294",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "yamuna, dota",
+      "kannada": "ಯಮುನಾ, ದೋತಾ",
+      "amount": 100,
+      "book": "6",
+      "sl": "295",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "umavathy, dota",
+      "kannada": "ಉಮಾವತಿ, ದೋಟಾ",
+      "amount": 100,
+      "book": "6",
+      "sl": "296",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "shreedhara poojary, nekkilaru",
+      "kannada": "ಶ್ರೀಧರ ಪೂಜಾರಿ, ನೆಕ್ಕಿಲಾರು",
+      "amount": 200,
+      "book": "6",
+      "sl": "297",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "narayana naayka, tharipadpu",
+      "kannada": "ನಾರಾಯಣ ನಾಯಕ, ತಾರಿಪಡ್ಪು",
+      "amount": 100,
+      "book": "6",
+      "sl": "298",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ravi prakash acharya, sinthaani katte",
+      "kannada": "ರವಿ ಪ್ರಕಾಶ್ ಆಚಾರ್ಯ, ಸಿಂತಾನಿ ಕಟ್ಟೆ",
+      "amount": 200,
+      "book": "6",
+      "sl": "299",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ravi vinoda, perla beeyapaade",
+      "kannada": "ರವಿ ವಿನೋದ, ಪೆರ್ಲ ಬೀಯಪಾಡೆ",
+      "amount": 200,
+      "book": "6",
+      "sl": "300",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Yashoda dharmaNa poojary, allipade",
+      "kannada": "ಯಶೋದಾ ಧರ್ಮನ ಪೂಜಾರಿ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 700,
+      "book": "7",
+      "sl": "301",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Adithya enterprises bantwal",
+      "kannada": "ಆದಿತ್ಯ ಎಂಟರ್‌ಪ್ರೈಸಸ್ ಬಂಟ್ವಾಳ",
+      "amount": 2000,
+      "book": "7",
+      "sl": "302",
+      "info": "Advertisement",
+      "year": 2025
+    },
+    {
+      "name": "ananda kulal megina mane",
+      "kannada": "ಆನಂದ ಕುಲಾಲ್ ಮೇಗಿನ ಮಾನೆ",
+      "amount": 200,
+      "book": "7",
+      "sl": "303",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Gopala poojary, allipade shanthiguri",
+      "kannada": "ಗೋಪಾಲ ಪೂಜಾರಿ, ಅಲ್ಲಿಪಾದೆ ಶಾಂತಿಗುರಿ",
+      "amount": 200,
+      "book": "7",
+      "sl": "304",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dinesh kotyan, pundibail",
+      "kannada": "ದಿನೇಶ್ ಕೋಟ್ಯಾನ್, ಪುಂಡಿಬೈಲ್",
+      "amount": 500,
+      "book": "7",
+      "sl": "305",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "harish poojary, nekkilaru",
+      "kannada": "ಹರೀಶ್ ಪೂಜಾರಿ, ನೆಕ್ಕಿಲಾರು",
+      "amount": 500,
+      "book": "7",
+      "sl": "306",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "nagamma gangayya nayka, perla tharipadpu",
+      "kannada": "ನಾಗಮ್ಮ ಗಂಗಯ್ಯ ನಾಯ್ಕ, ಪೆರ್ಲ ತಾರಿಪಡ್ಪು",
+      "amount": 200,
+      "book": "7",
+      "sl": "307",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Kariyappa poojary, ಪಾಲ್ದ ಪಲ್ಕೆ",
+      "kannada": "ಕರಿಯಪ್ಪ ಪೂಜಾರಿ, ಪಾಲ್ದ ಪಲ್ಕೆ",
+      "amount": 150,
+      "book": "7",
+      "sl": "308",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ashaa rajesh acharya, munnalayi padavu",
+      "kannada": "ಆಶಾ ರಾಜೇಶ್ ಆಚಾರ್ಯ, ಮುನ್ನಲಾಯಿ ಪದವು",
+      "amount": 500,
+      "book": "7",
+      "sl": "309",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Marappa poojary, sinthaani katte",
+      "kannada": "ಮಾರಪ್ಪ ಪೂಜಾರಿ, ಸಿಂತಾನಿ ಕಟ್ಟೆ",
+      "amount": 200,
+      "book": "7",
+      "sl": "310",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "narayana naayka, ಪಾಲ್ದ ಪಲ್ಕೆ",
+      "kannada": "ನಾರಾಯಣ ನಾಯ್ಕ, ಪಾಲ್ದ ಪಲ್ಕೆ",
+      "amount": 150,
+      "book": "7",
+      "sl": "311",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sheedhara naayka , perla",
+      "kannada": "ಶೀಧರ ನಾಯ್ಕ, ಪೆರ್ಲಾ",
+      "amount": 250,
+      "book": "7",
+      "sl": "312",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "muralidhara bhat, halegetu",
+      "kannada": "ಮುರಳೀಧರ ಭಟ್, ಹಳೆಗೇಟು",
+      "amount": 1100,
+      "book": "7",
+      "sl": "313",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "gulabi beeyapaade",
+      "kannada": "ಗುಲಾಬಿ ಬೀಯಪಾಡೆ",
+      "amount": 250,
+      "book": "7",
+      "sl": "314",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Krishna shanthi, ಬಡ್ಲಾಂ guthu",
+      "kannada": "ಕೃಷ್ಣ ಶಾಂತಿ, ಬಡ್ಲಾಂ ಗುತ್ತು",
+      "amount": 500,
+      "book": "7",
+      "sl": "315",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sheena Tailor, allipade",
+      "kannada": "ಶೀನಾ ಟೈಲರ್, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 1100,
+      "book": "7",
+      "sl": "316",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "narayana naayka, saroli gudde",
+      "kannada": "ನಾರಾಯಣ ನಾಯಕ, ಸರೋಳಿ ಗುಡ್ಡೆ",
+      "amount": 500,
+      "book": "7",
+      "sl": "317",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ವಿಠಲ​ shenoy, koodi bailu",
+      "kannada": "ವಿಠಲ ಶೆಣೈ, ಕೂಡಿ ಬೈಲು",
+      "amount": 500,
+      "book": "7",
+      "sl": "318",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Santhosh kumar, vacchaar",
+      "kannada": "ಸಂತೋಷ್ ಕುಮಾರ್, ವಚ್ಚರ್",
+      "amount": 110,
+      "book": "7",
+      "sl": "319",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sadashiva acharya, poopadikatte",
+      "kannada": "ಸದಾಶಿವ ಆಚಾರ್ಯ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 250,
+      "book": "7",
+      "sl": "320",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Kavitha lingaraaju, ಬಡ್ಲಾಂ",
+      "kannada": "ಕವಿತಾ ಲಿಂಗರಾಜು, ಬಡ್ಲಾಂ",
+      "amount": 250,
+      "book": "7",
+      "sl": "321",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Somanath, vacchar",
+      "kannada": "ಸೋಮನಾಥ್, ವಾಚ್ಚಾರ್",
+      "amount": 100,
+      "book": "7",
+      "sl": "322",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Harish naayka, ಬಲಯೂರು",
+      "kannada": "ಹರೀಶ್ ನಾಯ್ಕ, ಬಲವೂರು",
+      "amount": 100,
+      "book": "7",
+      "sl": "323",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ramanna ನಾಯ್ಕ, ಬಲಯೂರು, kayarambu",
+      "kannada": "ರಾಮಣ್ಣ ನಾಯ್ಕ, ಬಲಯೂರು, ಕಾಯರಂಬು",
+      "amount": 100,
+      "book": "7",
+      "sl": "324",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "keshava shetty, kadabettu",
+      "kannada": "ಕೇಶವ ಶೆಟ್ಟಿ, ಕಡಬೆಟ್ಟು",
+      "amount": 500,
+      "book": "7",
+      "sl": "325",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "chandrahas shetty, ಹಂಡೀರು",
+      "kannada": "ಚಂದ್ರಹಾಸ ಶೆಟ್ಟಿ, ಹಂಡೀರು",
+      "amount": 300,
+      "book": "7",
+      "sl": "326",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sanjeeva, navoor",
+      "kannada": "ಸಂಜೀವ, ನವೂರ್",
+      "amount": 250,
+      "book": "7",
+      "sl": "327",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Raveendra T.C., Lakshmi ramana ಕಾಶ್ಶೂ industries, navoor",
+      "kannada": "ರವೀಂದ್ರ ಟಿ.ಸಿ., ಲಕ್ಷ್ಮಿ ರಮಣ ಕಾಶ್ಶೂ ಇಂಡಸ್ಟ್ರೀಸ್, ನವೂರ್",
+      "amount": 1000,
+      "book": "7",
+      "sl": "328",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shivappa, beeyapade",
+      "kannada": "ಶಿವಪ್ಪ, ಬೀಯಪಾಡೆ",
+      "amount": 250,
+      "book": "7",
+      "sl": "329",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "dejappa moolya, kangithlu",
+      "kannada": "ದೇಜಪ್ಪ ಮೂಲ್ಯ, ಕಂಗಿತ್ಲು",
+      "amount": 250,
+      "book": "7",
+      "sl": "330",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "shashikanth acharya, sinthaanikatte",
+      "kannada": "ಶಶಿಕಾಂತ ಆಚಾರ್ಯ, ಸಿಂತಾನಿಕಟ್ಟೆ",
+      "amount": 100,
+      "book": "7",
+      "sl": "331",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ramanna moolya, raghavendra hotel, allipade",
+      "kannada": "ರಾಮಣ್ಣ ಮೂಲ್ಯ, ರಾಘವೇಂದ್ರ ಹೋಟೆಲ್, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 500,
+      "book": "7",
+      "sl": "332",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ashoka ನುತಾ೯ಡಿ, alipade",
+      "kannada": "ಅಶೋಕ ನುತಾ೯ಡಿ, ಅಲಿಪಾದೆ",
+      "amount": 200,
+      "book": "7",
+      "sl": "333",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sanjeeva poojary, kemmate",
+      "kannada": "ಸಂಜೀವ ಪೂಜಾರಿ, ಕೆಮ್ಮಟೆ",
+      "amount": 100,
+      "book": "7",
+      "sl": "334",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "dayananda kulal, kelagina navoor",
+      "kannada": "ದಯಾನಂದ ಕುಲಾಲ್, ಕೆಳಗಿನ ನಾವೂರು",
+      "amount": 250,
+      "book": "7",
+      "sl": "335",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ravi raghavendra",
+      "kannada": "ರವಿ ರಾಘವೇಂದ್ರ",
+      "amount": 200,
+      "book": "7",
+      "sl": "336",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "gangadhara aneja",
+      "kannada": "ಗಂಗಾಧರ ಅನೇಜ",
+      "amount": 110,
+      "book": "7",
+      "sl": "337",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sathish padmini, periyaru dota",
+      "kannada": "ಸತೀಶ್ ಪದ್ಮಿನಿ, ಪೆರಿಯಾರು ದೋಟ",
+      "amount": 200,
+      "book": "7",
+      "sl": "338",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "divya raveendra, aneja",
+      "kannada": "ದಿವ್ಯಾ ರವೀಂದ್ರ, ಅನೇಜಾ",
+      "amount": 150,
+      "book": "7",
+      "sl": "339",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "umavathi keshava, munnalayi padav",
+      "kannada": "ಉಮಾವತಿ ಕೇಶವ, ಮುನ್ನಲಾಯಿ ಪದವ್",
+      "amount": 200,
+      "book": "7",
+      "sl": "340",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "umesh shenoy, koody bailu",
+      "kannada": "ಉಮೇಶ್ ಶೆಣೈ, ಕೂಡಿ ಬೈಲು",
+      "amount": 750,
+      "book": "7",
+      "sl": "341",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "jagadish ujirady",
+      "kannada": "ಜಗದೀಶ್ ಉಜಿರಾಡಿ",
+      "amount": 200,
+      "book": "7",
+      "sl": "342",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "suresh navoor",
+      "kannada": "ಸುರೇಶ್ ನವೂರ್",
+      "amount": 250,
+      "book": "7",
+      "sl": "343",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "susheela, paangody",
+      "kannada": "ಸುಶೀಲಾ, ಪಾಂಗೋಡಿ",
+      "amount": 100,
+      "book": "7",
+      "sl": "344",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "chandrahas poojary, nekkilaaru",
+      "kannada": "ಚಂದ್ರಹಾಸ ಪೂಜಾರಿ, ನೆಕ್ಕಿಲಾರು",
+      "amount": 1100,
+      "book": "7",
+      "sl": "345",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dr. vijaya prasad, Navoor",
+      "kannada": "ಡಾ. ವಿಜಯ ಪ್ರಸಾದ್, ನಾವೂರು",
+      "amount": 1000,
+      "book": "7",
+      "sl": "346",
+      "info": "Advertisement",
+      "year": 2025
+    },
+    {
+      "name": "Akshith navoor",
+      "kannada": "ಅಕ್ಷಿತ್ ನವೂರ್",
+      "amount": 1000,
+      "book": "7",
+      "sl": "347",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "Puttanna nayak, koody bailu",
+      "kannada": "ಪುಟ್ಟಣ್ಣ ನಾಯಕ್, ಕೂಡಿ ಬೈಲು",
+      "amount": 500,
+      "book": "7",
+      "sl": "348",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Harish shetty, Munnalaayi",
+      "kannada": "ಹರೀಶ್ ಶೆಟ್ಟಿ, ಮುನ್ನಲಾಯಿ",
+      "amount": 200,
+      "book": "7",
+      "sl": "349",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Santhosh Naayka, borugudde, sidda katte",
+      "kannada": "ಸಂತೋಷ ನಾಯ್ಕ, ಬೋರುಗುಡ್ಡೆ, ಸಿದ್ದ ಕಟ್ಟೆ",
+      "amount": 100,
+      "book": "7",
+      "sl": "350",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shreenivas bhat, Pramod enterprises Bantwal",
+      "kannada": "ಶ್ರೀನಿವಾಸ ಭಟ್, ಪ್ರಮೋದ್ ಎಂಟರ್‌ಪ್ರೈಸಸ್ ಬಂಟ್ವಾಳ",
+      "amount": 1100,
+      "book": "8",
+      "sl": "352",
+      "info": "Advertisement",
+      "year": 2025
+    },
+    {
+      "name": "Pushpa ramappa poojary, kayarambu",
+      "kannada": "ಪುಷ್ಪಾ ರಾಮಪ್ಪ ಪೂಜಾರಿ, ಕಾಯರಂಬು",
+      "amount": 200,
+      "book": "8",
+      "sl": "353",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ananda salyan, adenkiladottu",
+      "kannada": "ಆನಂದ ಸಾಲ್ಯಾನ್, ಅಡೆಂಕಿಲದೊಟ್ಟು",
+      "amount": 250,
+      "book": "8",
+      "sl": "354",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Santhappa poojary, haTTa dadka",
+      "kannada": "ಸಂತಪ್ಪ ಪೂಜಾರಿ, ಹಟ್ಟ ದಡ್ಕ",
+      "amount": 1000,
+      "book": "8",
+      "sl": "355",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ganapa Kottari, karikumeru",
+      "kannada": "ಗಣಪ ಕೊಟ್ಟಾರಿ, ಕರಿಕುಮೇರು",
+      "amount": 1001,
+      "book": "8",
+      "sl": "356",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sadashiva poojary, vacchaaru",
+      "kannada": "ಸದಾಶಿವ ಪೂಜಾರಿ, ವಚ್ಚಾರು",
+      "amount": 100,
+      "book": "8",
+      "sl": "357",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Raghu chowta, periyapaade",
+      "kannada": "ರಘು ಚೌಟ, ಪೆರಿಯಪಾಡೆ",
+      "amount": 100,
+      "book": "8",
+      "sl": "358",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rajendra gowda, sinthaanikatte",
+      "kannada": "ರಾಜೇಂದ್ರ ಗೌಡ, ಸಿಂತಾನಿಕಟ್ಟೆ",
+      "amount": 500,
+      "book": "8",
+      "sl": "359",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Parameshwari, periyaaru dota",
+      "kannada": "ಪರಮೇಶ್ವರಿ, ಪೆರಿಯಾರು ದೋಟ",
+      "amount": 200,
+      "book": "8",
+      "sl": "360",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vasantha, vacchaaru",
+      "kannada": "ವಸಂತ, ವಚ್ಚಾರು",
+      "amount": 250,
+      "book": "8",
+      "sl": "361",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "nagesh, vacchaaru",
+      "kannada": "ನಾಗೇಶ್, ವಚ್ಚಾರು",
+      "amount": 250,
+      "book": "8",
+      "sl": "362",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ramesh sapalya, perla majalu",
+      "kannada": "ರಮೇಶ್ ಸಪಲ್ಯ, ಪೆರ್ಲ ಮಜಲು",
+      "amount": 200,
+      "book": "8",
+      "sl": "363",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ಭಿಮ೯ಣ poojary, ಕೆಲ್ಲೇರ್ ಮಾರ್",
+      "kannada": "ಭೀಮ೯ಣ ಪೂಜಾರಿ, ಕೆಲ್ಲೇರ್ ಮಾರ್",
+      "amount": 750,
+      "book": "8",
+      "sl": "364",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dharnappa moolya, ujirady ghati",
+      "kannada": "ಧರ್ಣಪ್ಪ ಮೂಲ್ಯ, ಉಜಿರಾಡಿ ಘಾಟಿ",
+      "amount": 100,
+      "book": "8",
+      "sl": "365",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Avinash, beeyapade",
+      "kannada": "ಅವಿನಾಶ್, ಬೀಯಪಾಡೆ",
+      "amount": 300,
+      "book": "8",
+      "sl": "366",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "B. Umesh kulal, navoor",
+      "kannada": "ಬಿ. ಉಮೇಶ್ ಕುಲಾಲ್, ನವೂರ್",
+      "amount": 1000,
+      "book": "8",
+      "sl": "367",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ravichandra thirthottu , perla",
+      "kannada": "ರವಿಚಂದ್ರ ತೀರ್ಥೊಟ್ಟು , ಪೆರ್ಲ",
+      "amount": 500,
+      "book": "8",
+      "sl": "368",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dayananda shetty, amai",
+      "kannada": "ದಯಾನಂದ ಶೆಟ್ಟಿ, ಅಮೈ",
+      "amount": 500,
+      "book": "8",
+      "sl": "369",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dinesh kottary, thirthottu (PICKUP)",
+      "kannada": "ದಿನೇಶ್ ಕೊಟ್ಟಾರಿ, ತಿರ್ತೊಟ್ಟು (ಪಿಕಪ್)",
+      "amount": 1000,
+      "book": "8",
+      "sl": "370",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shubhakara acharya, sinthaani katte",
+      "kannada": "ಶುಭಕರ ಆಚಾರ್ಯ, ಸಿಂತಾನಿ ಕಟ್ಟೆ",
+      "amount": 200,
+      "book": "8",
+      "sl": "371",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "yadava shetty, ಹಂಡೀರು",
+      "kannada": "ಯಾದವ ಶೆಟ್ಟಿ, ಹಂಡೀರು",
+      "amount": 1000,
+      "book": "8",
+      "sl": "372",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ದಿ। ರಮೆಶ್ ಅಚಾರ್ಯ ಇವರ ಸ್ಮರಣಾಥ೯, ಪತ್ನಿ ಮತ್ತು ಮಕ್ಕಳು, ಎರುಕಡಪು",
+      "kannada": "ದಿ. ರಮೇಶ ಆಚಾರ್ಯ ಇವರ ಸ್ಮರನಾಥ೯, ಪತ್ನಿ ಮತ್ತು ಮಕ್ಕಳು, ಎರುಕಡಪು",
+      "amount": 1000,
+      "book": "8",
+      "sl": "373",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "hariprasad ballullaya, navoor",
+      "kannada": "ಹರಿಪ್ರಸಾದ್ ಬಳ್ಳುಲ್ಲಾಯ, ನವೂರ್",
+      "amount": 500,
+      "book": "8",
+      "sl": "374",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "poovappa sapalya, dota",
+      "kannada": "ಪೂವಪ್ಪ ಸಪಲ್ಯ, ದೋಟ",
+      "amount": 300,
+      "book": "8",
+      "sl": "375",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Durga JEWELLERS,bantwala",
+      "kannada": "ದುರ್ಗಾ ಜ್ಯುವೆಲ್ಲರ್ಸ್, ಬಂಟ್ವಾಳ",
+      "amount": 1500,
+      "book": "8",
+      "sl": "376",
+      "info": "Advertisement",
+      "year": 2025
+    },
+    {
+      "name": "Dayananda shetty, munnaayi guthu",
+      "kannada": "ದಯಾನಂದ ಶೆಟ್ಟಿ, ಮುನ್ನಾಯಿ ಗುತ್ತು",
+      "amount": 500,
+      "book": "8",
+      "sl": "377",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Arun kumar, navoor",
+      "kannada": "ಅರುಣ್ ಕುಮಾರ್, ನವೂರ್",
+      "amount": 300,
+      "book": "8",
+      "sl": "378",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Yogesh, Allipade",
+      "kannada": "ಯೋಗೇಶ್, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 500,
+      "book": "8",
+      "sl": "379",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shobha, ಬಲಯೂರು",
+      "kannada": "ಶೋಭಾ, ಬಲಯೂರು",
+      "amount": 100,
+      "book": "8",
+      "sl": "380",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vasantha yogini, thaaripundu karenki",
+      "kannada": "ವಸಂತ ಯೋಗಿನಿ, ತಾರಿಪುಂಡು ಕರೆಂಕಿ",
+      "amount": 500,
+      "book": "8",
+      "sl": "381",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "thimmappa moolya, ಮಾಂದ್ರೊಡಿ",
+      "kannada": "ತಿಮ್ಮಪ್ಪ ಮೂಲ್ಯ, ಮಾಂದ್ರೊಡಿ",
+      "amount": 500,
+      "book": "8",
+      "sl": "382",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vaani ganesh acharya, ajila mogaru",
+      "kannada": "ವಾಣಿ ಗಣೇಶ್ ಆಚಾರ್ಯ, ಅಜಿಲ ಮೊಗರು",
+      "amount": 2000,
+      "book": "8",
+      "sl": "383",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "praveen kulal, attlotu",
+      "kannada": "ಪ್ರವೀಣ್ ಕುಲಾಲ್, ಅಟ್ಲೋಟು",
+      "amount": 500,
+      "book": "8",
+      "sl": "384",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Manohar kumar, sajanka bettu",
+      "kannada": "ಮನೋಹರ್ ಕುಮಾರ್, ಸಜಂಕಾ ಬೆಟ್ಟು",
+      "amount": 500,
+      "book": "8",
+      "sl": "385",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dejappa poojary, ಅಡೆಂಕಿಲದೊಟ್ಟು",
+      "kannada": "ದೇಜಪ್ಪ ಪೂಜಾರಿ, ಅಡೆಂಕಿಲದೊಟ್ಟು",
+      "amount": 500,
+      "book": "8",
+      "sl": "386",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "atharva associates, bantwal",
+      "kannada": "ಅಥರ್ವ ಅಸೋಸಿಯೇಟ್ಸ್‌, ಬಂಟ್ವಾಳ",
+      "amount": 1000,
+      "book": "8",
+      "sl": "387",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vasantha jyothi, sinthaani katte",
+      "kannada": "ವಸಂತ ಜ್ಯೋತಿ, ಸಿಂತಾನಿ ಕಟ್ಟೆ",
+      "amount": 300,
+      "book": "8",
+      "sl": "388",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Premraj poonja, volyady",
+      "kannada": "ಪ್ರೇಮರಾಜ್ ಪೂಂಜಾ, ವೊಲ್ಯಾಡಿ",
+      "amount": 500,
+      "book": "8",
+      "sl": "389",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Lalitha, ಬಡ್ಲಾಂ",
+      "kannada": "ಲಲಿತಾ, ಬಡ್ಲಾಂ",
+      "amount": 200,
+      "book": "8",
+      "sl": "390",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ದಿ। jayarama kottary karikumeru ಇವರ ಸ್ಮರಣಾಥ೯, ಪತ್ನಿ ಮತ್ತು ಮಕ್ಕಳು",
+      "kannada": "ದಿ. ಜಯರಾಮ ಕೊಟ್ಟಾರಿ ಕರಿಕುಮೇರು ಇವರ ಸ್ಮರಣಾಥ೯, ಪತ್ನಿ ಮತ್ತು ಮಕ್ಕಳು",
+      "amount": 1000,
+      "book": "8",
+      "sl": "391",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vamana poojary, ujirady ghati, allipade",
+      "kannada": "ವಾಮನ ಪೂಜಾರಿ, ಉಜಿರಾಡಿ ಘಾಟಿ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 500,
+      "book": "8",
+      "sl": "392",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Gunavathy, allipade",
+      "kannada": "ಗುಣವತಿ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 200,
+      "book": "8",
+      "sl": "393",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "harishchandra poojary, ಬಲಯೂರು",
+      "kannada": "ಹರಿಶ್ಚಂದ್ರ ಪೂಜಾರಿ, ಬಲವೂರು",
+      "amount": 200,
+      "book": "8",
+      "sl": "394",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Bhoja priya acharya, poopadikatte",
+      "kannada": "ಭೋಜ ಪ್ರಿಯಾ ಆಚಾರ್ಯ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 250,
+      "book": "8",
+      "sl": "395",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "rekha nagesh, ujirady allipade",
+      "kannada": "ರೇಖಾ ನಾಗೇಶ್, ಉಜಿರಾಡಿ ಅಲ್ಲಿಪಾದೆ",
+      "amount": 250,
+      "book": "8",
+      "sl": "396",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "E.R.  Sharath, S.L. CONSTRUCTIONS, kakkyapadavu",
+      "kannada": "E.R. ಶರತ್, SL Constructions ಕಕ್ಯಪದವು",
+      "amount": 1500,
+      "book": "8",
+      "sl": "397",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Asha gopala, munnalaai padavu",
+      "kannada": "ಆಶಾ ಗೋಪಾಲ, ಮುನ್ನಲೈ ಪದವು",
+      "amount": 250,
+      "book": "8",
+      "sl": "398",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Kalavathy B Poonja, ಪಾದಿಲ​",
+      "kannada": "ಕಲಾವತಿ ಬಿ ಪೂಂಜಾ, ಪಾದಿಲ",
+      "amount": 1000,
+      "book": "8",
+      "sl": "399",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Radhakrishna shetty, surathkal",
+      "kannada": "ರಾಧಾಕೃಷ್ಣ ಶೆಟ್ಟಿ, ಸುರತ್ಕಲ್",
+      "amount": 1000,
+      "book": "8",
+      "sl": "400",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rajesh kottary, kalladka",
+      "kannada": "ರಾಜೇಶ್ ಕೊಟ್ಟಾರಿ, ಕಲ್ಲಡ್ಕ",
+      "amount": 300,
+      "book": "9",
+      "sl": "401",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Divakara jain, periyaaru dota",
+      "kannada": "ದಿವಾಕರ ಜೈನ, ಪೆರಿಯಾರು ದೋತ",
+      "amount": 500,
+      "book": "9",
+      "sl": "402",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Bhaskar b. ಬಟ್ರೊಡಿ",
+      "kannada": "ಭಾಸ್ಕರ್ ಬಿ. ಬಟ್ರೊಡಿ",
+      "amount": 250,
+      "book": "9",
+      "sl": "403",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ಗಿರಿಜಾ ದೇವಾಡಿಗ, ಮರೖಾದೊಟ್ಟು",
+      "kannada": "ಗಿರಿಜಾ ದೇವಾಡಿಗ, ಮರೖಾದೊಟ್ಟು",
+      "amount": 200,
+      "book": "9",
+      "sl": "404",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "yamuna koppala, ಮರೖಾದೊಟ್ಟು",
+      "kannada": "ಯಮುನ ಕೊಪ್ಪಲ​, ಮರೖಾದೊಟ್ಟು",
+      "amount": 150,
+      "book": "9",
+      "sl": "405",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "chandrahasa, ಬಳ್ಳಿದ ಕೋಡಿ",
+      "kannada": "ಚಂದ್ರಹಾಸ, ಬಳ್ಳಿದ ಕೋಡಿ",
+      "amount": 550,
+      "book": "9",
+      "sl": "406",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vasantha nayak, nekkilaaru",
+      "kannada": "ವಸಂತ ನಾಯಕ್, ನೆಕ್ಕಿಲಾರು",
+      "amount": 501,
+      "book": "9",
+      "sl": "407",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vishwanatha Naayka, ಮುಡ್ಕರ ಪಲ್ಕೆ",
+      "kannada": "ವಿಶ್ವನಾಥ ನಾಯ್ಕ, ಮುದ್ಕರ ಪಲ್ಕೆ",
+      "amount": 300,
+      "book": "9",
+      "sl": "408",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rashmitha, ನುತಾ೯ಡಿ house",
+      "kannada": "ರಶ್ಮಿತಾ, ನುತಾ೯ಡಿ ಮನೆ",
+      "amount": 250,
+      "book": "9",
+      "sl": "409",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vasantha, ಮುದಿಮರ​​​",
+      "kannada": "ವಸಂತ, ಮುದಿಮರ",
+      "amount": 250,
+      "book": "9",
+      "sl": "410",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vishwanatha naayka, nekkipalke",
+      "kannada": "ವಿಶ್ವನಾಥ ನಾಯ್ಕ, ನೆಕ್ಕಿಪಲ್ಕೆ",
+      "amount": 200,
+      "book": "9",
+      "sl": "411",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Harshitha rajesh, ujirady",
+      "kannada": "ಹರ್ಷಿತಾ ರಾಜೇಶ್, ಉಜಿರಾಡಿ",
+      "amount": 200,
+      "book": "9",
+      "sl": "412",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "muthamma, ujirady",
+      "kannada": "ಮುತ್ತಮ್ಮ, ಉಜಿರಾಡಿ",
+      "amount": 200,
+      "book": "9",
+      "sl": "413",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Lokesh kulal, ಮಾಲಬೆ",
+      "kannada": "ಲೋಕೇಶ್ ಕುಲಾಲ್, ಮಾಲಬೆ",
+      "amount": 500,
+      "book": "9",
+      "sl": "414",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "gopalapoojary, maangaaje",
+      "kannada": "ಗೋಪಾಲಪೂಜಾರಿ, ಮಾಂಗಾಜೆ",
+      "amount": 150,
+      "book": "9",
+      "sl": "415",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "bhaskara kulal, sinthaani katte",
+      "kannada": "ಭಾಸ್ಕರ ಕುಲಾಲ್, ಸಿಂತಾನಿ ಕಟ್ಟೆ",
+      "amount": 250,
+      "book": "9",
+      "sl": "416",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "manmath raj jain, periyaaru guthu",
+      "kannada": "ಮನ್ಮಥ ರಾಜ್ ಜೈನ್, ಪೆರಿಯಾರು ಗುತ್ತು",
+      "amount": 1004,
+      "book": "9",
+      "sl": "417",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Revathy mahabala, ಮಿನಾಳಿ",
+      "kannada": "ರೇವತಿ ಮಹಾಬಲ, ಮಿನಾಳಿ",
+      "amount": 250,
+      "book": "9",
+      "sl": "418",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Indira, ಮಿನಾಳಿ",
+      "kannada": "ಇಂದಿರಾ, ಮಿನಾಳಿ",
+      "amount": 200,
+      "book": "9",
+      "sl": "419",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "leela shankara, sinthaani katte",
+      "kannada": "ಲೀಲಾ ಶಂಕರ, ಸಿಂತಾನಿ ಕಟ್ಟೆ",
+      "amount": 100,
+      "book": "9",
+      "sl": "420",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "suresh kumar, agrahara beedi, advocate, BC ROAD",
+      "kannada": "ಸುರೇಶ್ ಕುಮಾರ್, ಅಗ್ರಹಾರ ಬೀದಿ, ವಕೀಲರು, BC ROAD",
+      "amount": 1500,
+      "book": "9",
+      "sl": "421",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sarojini poovappa poojary and makkalu, bollukallu",
+      "kannada": "ಸರೋಜಿನಿ ಪೂವಪ್ಪ ಪೂಜಾರಿ ಮತ್ತು ಮಕ್ಕಳು, ಬೊಳ್ಳುಕಲ್ಲು",
+      "amount": 1000,
+      "book": "9",
+      "sl": "422",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "suresh m. sahyadri, ಮಾಲಬೆ",
+      "kannada": "ಸುರೇಶ್ ಎಂ. ಸಹ್ಯಾದ್ರಿ, ಮಾಲಬೆ",
+      "amount": 1000,
+      "book": "9",
+      "sl": "423",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vishwanatha poojary, bengathyaar",
+      "kannada": "ವಿಶ್ವನಾಥ ಪೂಜಾರಿ, ಬೆಂಗತ್ಯಾರ್",
+      "amount": 500,
+      "book": "9",
+      "sl": "424",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sundari shetty, kordottu",
+      "kannada": "ಸುಂದರಿ ಶೆಟ್ಟಿ, ಕೊರ್ಡೊಟ್ಟು",
+      "amount": 350,
+      "book": "9",
+      "sl": "425",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "janardhana kombettu",
+      "kannada": "ಜನಾರ್ಧನ ಕೊಂಬೆಟ್ಟು",
+      "amount": 250,
+      "book": "9",
+      "sl": "426",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sadananda halegetu",
+      "kannada": "ಸದಾನಂದ ಹಳೆಗೆಟು",
+      "amount": 300,
+      "book": "9",
+      "sl": "427",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "narayana prabhu, kordottu",
+      "kannada": "ನಾರಾಯಣ ಪ್ರಭು, ಕೊರ್ಡೊಟ್ಟು",
+      "amount": 700,
+      "book": "9",
+      "sl": "428",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "kavya ananda, nelya Palke",
+      "kannada": "ಕಾವ್ಯ ಆನಂದ, ನೆಲ್ಯ ಪಾಲ್ಕೆ",
+      "amount": 500,
+      "book": "9",
+      "sl": "429",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "rajeevi nemu poojary, ujirady guthu",
+      "kannada": "ರಾಜೀವಿ ನೇಮು ಪೂಜಾರಿ, ಉಜಿರಾಡಿ ಗುತ್ತು",
+      "amount": 1000,
+      "book": "9",
+      "sl": "430",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "suresh k. ujirady",
+      "kannada": "ಸುರೇಶ್ ಕೆ. ಉಜಿರಾಡಿ",
+      "amount": 200,
+      "book": "9",
+      "sl": "431",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "devendra pundibailu",
+      "kannada": "ದೇವೇಂದ್ರ ಪುಂಡಿಬೈಲು",
+      "amount": 300,
+      "book": "9",
+      "sl": "432",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "purandara poojary, maangaaje",
+      "kannada": "ಪುರಂದರ ಪೂಜಾರಿ, ಮಾಂಗಾಜೆ",
+      "amount": 500,
+      "book": "9",
+      "sl": "433",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vidyaadhara, sinthaani katte",
+      "kannada": "ವಿದ್ಯಾಧಾರ, ಸಿಂಥಾನಿ ಕಟ್ಟೆ",
+      "amount": 100,
+      "book": "9",
+      "sl": "434",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vamana naayka, poopadikatte",
+      "kannada": "ವಾಮನ ನಾಯಕ, ಪೂಪದಿಕಟ್ಟೆ",
+      "amount": 1500,
+      "book": "9",
+      "sl": "435",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "jaya shetty, aneja",
+      "kannada": "ಜಯಾ ಶೆಟ್ಟಿ, ಅನೇಜಾ",
+      "amount": 600,
+      "book": "9",
+      "sl": "436",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "nanyappa poojary, nanda gokula paddaayooru guthu",
+      "kannada": "ನಾಣ್ಯಪ್ಪ ಪೂಜಾರಿ, ನಂದ ಗೋಕುಲ ಪಡ್ಡಾಯೂರು ಗುತ್ತು",
+      "amount": 2000,
+      "book": "9",
+      "sl": "437",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sarapady ashoka shetty",
+      "kannada": "ಸರಪಾಡಿ ಅಶೋಕ ಶೆಟ್ಟಿ",
+      "amount": 800,
+      "book": "9",
+      "sl": "438",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Nanyappa poojary, ಮುನ್ನಲಾಯಿ padavu",
+      "kannada": "ನಾಣ್ಯಪ್ಪ ಪೂಜಾರಿ, ಮುನ್ನಲಾಯಿ ಪದವು",
+      "amount": 500,
+      "book": "9",
+      "sl": "439",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "anil periyaaru dota",
+      "kannada": "ಅನಿಲ್ ಪೆರಿಯಾರು ದೋಟ",
+      "amount": 500,
+      "book": "9",
+      "sl": "440",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "mohan raaj, periyaaru dota",
+      "kannada": "ಮೋಹನ್ ರಾಜ್, ಪೆರಿಯಾರು ದೋಟ",
+      "amount": 300,
+      "book": "9",
+      "sl": "441",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "yathish, ಬಲಯೂರು",
+      "kannada": "ಯತಿಶ್, ಬಲಯೂರು",
+      "amount": 150,
+      "book": "9",
+      "sl": "442",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Lokesh salyan, maangaaje",
+      "kannada": "ಲೋಕೇಶ್ ಸಾಲ್ಯಾನ್, ಮಾಂಗಾಜೆ",
+      "amount": 250,
+      "book": "9",
+      "sl": "443",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "bhanuprasad shetty, kuriyaLa",
+      "kannada": "ಭಾನುಪ್ರಸಾದ್ ಶೆಟ್ಟಿ, ಕುರಿಯಾಳ",
+      "amount": 500,
+      "book": "9",
+      "sl": "444",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ಜೀವಿತ ಸಂತೊಷ್ ಅಂಚನ್, ಮುನ್ನಲಾಯಿ, ಹೊಸಚಲಚ್ಚಿಲ್",
+      "kannada": "ಜೀವಿತ ಸಂತೋಷ್ ಅಂಚನ್, ಮುನ್ನಲಾಯಿ, ಹೊಸಚಲಚ್ಚಿಲ್",
+      "amount": 1500,
+      "book": "9",
+      "sl": "445",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "shankar nayak, poopadikatte",
+      "kannada": "ಶಂಕರ್ ನಾಯಕ್, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 50,
+      "book": "9",
+      "sl": "446",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "janardhana naayka, nekkipalke",
+      "kannada": "ಜನಾರ್ಧನ ನಾಯಕ, ನೆಕ್ಕಿಪಲ್ಕೆ",
+      "amount": 1000,
+      "book": "9",
+      "sl": "447",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "dinesh naayka, poopadikatte",
+      "kannada": "ದಿನೇಶ್ ನಾಯ್ಕ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "9",
+      "sl": "448",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "veekshitha chethan anchan, moorje",
+      "kannada": "ವೀಕ್ಷಿತ ಚೇತನ್ ಅಂಚನ್, ಮೂರ್ಜೆ",
+      "amount": 1500,
+      "book": "9",
+      "sl": "449",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "malathi malekodi",
+      "kannada": "ಮಾಲತಿ ಮಲೆಕೋಡಿ",
+      "amount": 100,
+      "book": "9",
+      "sl": "450",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Udaya Bhandary, ಮುನ್ನಲಾಯಿ guthu",
+      "kannada": "Udaya Bhandary, ಮುನ್ನಲಾಯಿ ಗುತ್ತು",
+      "amount": 1000,
+      "book": "10",
+      "sl": "451",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "varadaraj shetty, ಮುನ್ನಲಾಯಿ guthu",
+      "kannada": "varadaraj shetty, ಮುನ್ನಲಾಯಿ ಗುತ್ತು",
+      "amount": 300,
+      "book": "10",
+      "sl": "452",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shreedhara suvarna, ಕನಪಾದೆ",
+      "kannada": "ಶ್ರೀಧರ ಸುವರ್ಣ, ಕನಪಾದೆ",
+      "amount": 500,
+      "book": "10",
+      "sl": "453",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "dejappa sapalya, dota",
+      "kannada": "ದೇಜಪ್ಪ ಸಪಲ್ಯ, ದೋಟ",
+      "amount": 300,
+      "book": "10",
+      "sl": "454",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "surendra prabhu, hanDiooru",
+      "kannada": "ಸುರೇಂದ್ರ ಪ್ರಭು, ಹನ್ ದಿಯೂರು",
+      "amount": 250,
+      "book": "10",
+      "sl": "455",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sheena , malekodi",
+      "kannada": "ಶೀನಾ, ಮಲೆಕೋಡಿ",
+      "amount": 500,
+      "book": "10",
+      "sl": "456",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Shivaji jadav, lakshi ganesh jewellers, bantwala",
+      "kannada": "ಶಿವಾಜಿ ಜಾದವ್, ಲಕ್ಷಿ ಗಣೇಶ್ ಜ್ಯುವೆಲ್ಲರ್ಸ್, ಬಂಟ್ವಾಳ",
+      "amount": 1000,
+      "book": "10",
+      "sl": "457",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "rathnakara bhat, maddadka",
+      "kannada": "ರತ್ನಾಕರ ಭಟ್, ಮದ್ದಡ್ಕ",
+      "amount": 1000,
+      "book": "10",
+      "sl": "458",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "umesh prabhu, kordottu",
+      "kannada": "ಉಮೇಶ್ ಪ್ರಭು, ಕೊರ್ಡೊಟ್ಟು",
+      "amount": 200,
+      "book": "10",
+      "sl": "459",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "marappa poojary, allipade",
+      "kannada": "ಮಾರಪ್ಪ ಪೂಜಾರಿ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 250,
+      "book": "10",
+      "sl": "460",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "lalitha, koody bailu",
+      "kannada": "ಲಲಿತಾ, ಕೂಡಿ ಬೈಲು",
+      "amount": 100,
+      "book": "10",
+      "sl": "461",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "P. divakara rao, karinja parari",
+      "kannada": "ಪಿ.ದಿವಾಕರ ರಾವ್, ಕಾರಿಂಜ ಪರಾರಿ",
+      "amount": 1500,
+      "book": "10",
+      "sl": "462",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "Aithappa poojary, ujirady",
+      "kannada": "ಐತಪ್ಪ ಪೂಜಾರಿ, ಉಜಿರಾಡಿ",
+      "amount": 200,
+      "book": "10",
+      "sl": "463",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vijeth deepaa, ujirady allipade",
+      "kannada": "ವಿಜೇತ್ ದೀಪಾ, ಉಜಿರಾಡಿ ಅಲ್ಲಿಪಾದೆ",
+      "amount": 300,
+      "book": "10",
+      "sl": "464",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "lokesh bhat, koyakude",
+      "kannada": "ಲೋಕೇಶ್ ಭಟ್, ಕೊಯಕುಡೆ",
+      "amount": 500,
+      "book": "10",
+      "sl": "465",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "naveena poojary, periyaaru dota",
+      "kannada": "ನವೀನ ಪೂಜಾರಿ, ಪೆರಿಯಾರು ದೋಟ",
+      "amount": 200,
+      "book": "10",
+      "sl": "466",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "narayana shetty, paddayi majalu",
+      "kannada": "ನಾರಾಯಣ ಶೆಟ್ಟಿ, ಪದ್ದಾಯಿ ಮಜಲು",
+      "amount": 500,
+      "book": "10",
+      "sl": "467",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "purushothama shetty, hanDioor",
+      "kannada": "ಪುರುಷೋತ್ತಮ ಶೆಟ್ಟಿ, ಹಾಂಡಿಯೂರ್",
+      "amount": 500,
+      "book": "10",
+      "sl": "468",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Vishwanatha, bhavantha bettu",
+      "kannada": "ವಿಶ್ವನಾಥ, ಭವಂತ ಬೆಟ್ಟು",
+      "amount": 500,
+      "book": "10",
+      "sl": "469",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sumathi malabe",
+      "kannada": "ಸುಮತಿ ಮಲಾಬೆ",
+      "amount": 250,
+      "book": "10",
+      "sl": "470",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Dinesh koodybailu",
+      "kannada": "ದಿನೇಶ್ ಕೂಡ್ಬೈಲು",
+      "amount": 510,
+      "book": "10",
+      "sl": "471",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "padmanabha, hotel maindala",
+      "kannada": "ಪದ್ಮನಾಭ, ಹೋಟೆಲ್ ಮೈಂದಾಲ",
+      "amount": 200,
+      "book": "10",
+      "sl": "472",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "shekhara mestri, balayooru",
+      "kannada": "ಶೇಖರ ಮೇಸ್ತ್ರಿ, ಬಲಯೂರು",
+      "amount": 500,
+      "book": "10",
+      "sl": "473",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "bharath shetty, pandith house, mangalore",
+      "kannada": "ಭರತ್ ಶೆಟ್ಟಿ, ಪಂಡಿತ್ ಹೌಸ್, ಮಂಗಳೂರು",
+      "amount": 500,
+      "book": "10",
+      "sl": "474",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "shalini naayka, poopadikatte",
+      "kannada": "ಶಾಲಿನಿ ನಾಯ್ಕ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "10",
+      "sl": "475",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "thimmaya moolya, kedige",
+      "kannada": "ತಿಮ್ಮಯ ಮೂಲ್ಯ, ಕೆದಿಗೆ",
+      "amount": 500,
+      "book": "10",
+      "sl": "476",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "rajesh, dinasi angadi, jakribettu",
+      "kannada": "ರಾಜೇಶ್, ದಿನಸಿ ಅಂಗಡಿ, ಜಕ್ರಿಬೆಟ್ಟು",
+      "amount": 250,
+      "book": "10",
+      "sl": "477",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "rama erukadapu",
+      "kannada": "ರಾಮ ಎರುಕಡಪು",
+      "amount": 2000,
+      "book": "10",
+      "sl": "478",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "varija and maneyavaru, nekkipalke",
+      "kannada": "ವಾರಿಜ ಮತ್ತು ಮನೆಯವರು, ನೆಕ್ಕಿಪಲ್ಕೆ",
+      "amount": 2000,
+      "book": "10",
+      "sl": "479",
+      "info": "ಅನ್ನದಾನ​",
+      "year": 2025
+    },
+    {
+      "name": "harish naayka, nekkipalke",
+      "kannada": "ಹರಿಶ್ ನಾಯ್ಕ, ನೆಕ್ಕಿಪಲ್ಕೆ",
+      "amount": 3000,
+      "book": "10",
+      "sl": "480",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "purushothama shenoy, poopadikatte",
+      "kannada": "ಪುರುಷೋತ್ತಮ ಶೆಣೈ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 2500,
+      "book": "10",
+      "sl": "481",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sheena poojary, poopadikatte ghati",
+      "kannada": "ಶೀನ ಪೂಜಾರಿ, ಪೂಪಾಡಿಕಟ್ಟೆ ಘಾಟಿ",
+      "amount": 500,
+      "book": "10",
+      "sl": "482",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ananda kottary, karikumeru",
+      "kannada": "ಆನಂದ ಕೊಟ್ಟಾರಿ, ಕರಿಕುಮೇರು",
+      "amount": 7500,
+      "book": "10",
+      "sl": "483",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Krishnappa oDudadka",
+      "kannada": "ಕೃಷ್ಣಪ್ಪ ಒ ದುಡಡ್ಕ",
+      "amount": 300,
+      "book": "10",
+      "sl": "484",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Indira shivappa kulal, navoor",
+      "kannada": "ಇಂದಿರಾ ಶಿವಪ್ಪ ಕುಲಾಲ್, ನವೂರ್",
+      "amount": 300,
+      "book": "10",
+      "sl": "485",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "harishchandra poojary, beejadadi",
+      "kannada": "ಹರಿಶ್ಚಂದ್ರ ಪೂಜಾರಿ, ಬೀಜದಡಿ",
+      "amount": 500,
+      "book": "10",
+      "sl": "486",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "lalitha chandappa bangera, poopadikatte",
+      "kannada": "ಲಲಿತಾ ಚಂದಪ್ಪ ಬಂಗೇರ, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "10",
+      "sl": "487",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "raveendra bellare",
+      "kannada": "ರವೀಂದ್ರ ಬೆಳ್ಳಾರೆ",
+      "amount": 1000,
+      "book": "10",
+      "sl": "488",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "deepthi sandeep kotyan, divya shakthi ekkudelu",
+      "kannada": "ದೀಪ್ತಿ ಸಂದೀಪ್ ಕೋಟ್ಯಾನ್, ದಿವ್ಯ ಶಕ್ತಿ ಎಕ್ಕುಡೇಲು",
+      "amount": 2001,
+      "book": "10",
+      "sl": "489",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "jayarama shetty, kukkila",
+      "kannada": "ಜಯರಾಮ ಶೆಟ್ಟಿ, ಕುಕ್ಕಿಲ",
+      "amount": 7000,
+      "book": "10",
+      "sl": "490",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "sadananda shetty, paddayooru kedige",
+      "kannada": "ಸದಾನಂದ ಶೆಟ್ಟಿ, ಪಡ್ಡೆಯೂರು ಕೇದಿಗೆ",
+      "amount": 3100,
+      "book": "10",
+      "sl": "491",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "parameshwara devadiga, maraayidottu",
+      "kannada": "ಪರಮೇಶ್ವರ ದೇವಾಡಿಗ, ಮರಾಯಿದೊಟ್ಟು",
+      "amount": 511,
+      "book": "10",
+      "sl": "492",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "lokesh acharya, allipade",
+      "kannada": "ಲೋಕೇಶ್ ಆಚಾರ್ಯ, ಅಲ್ಲಿಪಾದೆ",
+      "amount": 1100,
+      "book": "10",
+      "sl": "493",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Pacchu sweet corn",
+      "kannada": "ಪಚ್ಚು ಸಿಹಿ ಜೋಳ",
+      "amount": 250,
+      "book": "10",
+      "sl": "494",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "P. babu poojary, konaje",
+      "kannada": "ಪಿ. ಬಾಬು ಪೂಜಾರಿ, ಕೊಣಾಜೆ",
+      "amount": 2000,
+      "book": "10",
+      "sl": "495",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Rohinatha batrody",
+      "kannada": "ರೋಹಿನಾಥ ಬಟ್ರೋಡಿ",
+      "amount": 2000,
+      "book": "10",
+      "sl": "496",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Umesh acharya, ವಲೆಂಗೂರು",
+      "kannada": "ಉಮೇಶ್ ಆಚಾರ್ಯ, ವಲೆಂಗೂರು",
+      "amount": 250,
+      "book": "10",
+      "sl": "497",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "N. dhananjaya shetty, sarapady",
+      "kannada": "ಎನ್.ಧನಂಜಯ ಶೆಟ್ಟಿ, ಸರಪಾಡಿ",
+      "amount": 1000,
+      "book": "10",
+      "sl": "498",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "BIG BOSS Icecream",
+      "kannada": "ಬಿಗ್ ಬಾಸ್ ಐಸ್ ಕ್ರೀಮ್",
+      "amount": 500,
+      "book": "10",
+      "sl": "499",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Sharan kumar poopadikatte",
+      "kannada": "ಶರಣ್ ಕುಮಾರ್ ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "10",
+      "sl": "500",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "mahabala shetty periya paade, kedige",
+      "kannada": "ಮಹಾಬಲ ಶೆಟ್ಟಿ ಪೆರಿಯ ಪಾದೆ, ಕೇದಿಗೆ",
+      "amount": 300,
+      "book": "11",
+      "sl": "426",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "nagesh, koody bailu",
+      "kannada": "ನಾಗೇಶ್, ಕೂಡಿ ಬೈಲು",
+      "amount": 250,
+      "book": "11",
+      "sl": "427",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "manoj kumar, aneja",
+      "kannada": "ಮನೋಜ್ ಕುಮಾರ್, ಅನೇಜಾ",
+      "amount": 750,
+      "book": "11",
+      "sl": "428",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "suhasini shetty, kukkila",
+      "kannada": "ಸುಹಾಸಿನಿ ಶೆಟ್ಟಿ, ಕುಕ್ಕಿಲ",
+      "amount": 3000,
+      "book": "11",
+      "sl": "429",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Chithra pradeep pakkala, Dharawad",
+      "kannada": "ಚಿತ್ರಾ ಪ್ರದೀಪ್ ಪಕ್ಕಳ, ಧಾರವಾಡ",
+      "amount": 2000,
+      "book": "11",
+      "sl": "430",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Hastha shetty, Mumbai",
+      "kannada": "ಹಸ್ತಾ ಶೆಟ್ಟಿ, ಮುಂಬೈ",
+      "amount": 1000,
+      "book": "11",
+      "sl": "431",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Yaksh, Laksh shetty, Mumbai",
+      "kannada": "ಯಕ್ಷ, ಲಕ್ಷ ಶೆಟ್ಟಿ, ಮುಂಬೈ",
+      "amount": 1000,
+      "book": "11",
+      "sl": "432",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Hariprasad shetty, Mumbai",
+      "kannada": "ಹರಿಪ್ರಸಾದ್ ಶೆಟ್ಟಿ, ಮುಂಬೈ",
+      "amount": 1000,
+      "book": "11",
+      "sl": "433",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "kishor naayka poopadikatte",
+      "kannada": "ಕಿಶೋರ್ ನಾಯಕ ಪೂಪಾದಿಕಟ್ಟೆ",
+      "amount": 1000,
+      "book": "11",
+      "sl": "434",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Harshith shetty, kukkila",
+      "kannada": "ಹರ್ಷಿತ್ ಶೆಟ್ಟಿ, ಕುಕ್ಕಿಲ",
+      "amount": 500,
+      "book": "11",
+      "sl": "435",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Annu moolya, ujirady",
+      "kannada": "ಅನ್ನು ಮೂಲ್ಯ, ಉಜಿರಾಡಿ",
+      "amount": 150,
+      "book": "11",
+      "sl": "436",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Harshith kumar, poopadikatte",
+      "kannada": "ಹರ್ಷಿತ್ ಕುಮಾರ್, ಪೂಪಾಡಿಕಟ್ಟೆ",
+      "amount": 2000,
+      "book": "11",
+      "sl": "437",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ಉಳಿಕೆ ಸಾಮಾನು",
+      "kannada": "ಉಳಿಕೆ ಸಾಮಾನು",
+      "amount": 1050,
+      "book": "11",
+      "sl": "438",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "vaasu bangera, allipade",
+      "kannada": "ವಾಸು ಬಂಗೇರ, ಅಲ್ಲಿಪಡೆ",
+      "amount": 300,
+      "book": "11",
+      "sl": "439",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "kalpavruksha TRADERS, naavoor",
+      "kannada": "ಕಲ್ಪವೃಕ್ಷ ಟ್ರೇಡರ್ಸ್, ನವೂರ್",
+      "amount": 2000,
+      "book": "11",
+      "sl": "440",
+      "info": "Advertisement",
+      "year": 2025
+    },
+    {
+      "name": "Anantha shenoy, koody bailu",
+      "kannada": "ಅನಂತ ಶೆಣೈ, ಕೂಡಿ ಬೈಲು",
+      "amount": 6000,
+      "book": "12",
+      "sl": "451",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "ಕವಿತಾ ಸರೇಶ್, ಸಮೃುದ್ದಿ ನಿಲಯ​, ಅಳಿಕೆ ಮಜಲು ಮನೆ",
+      "kannada": "ಕವಿತಾ ಸರೇಶ್, ಸಮೃದ್ದಿ ನಿಲಯ, ಅಳಿಕೆ ಮಜಲು ಮನೆ",
+      "amount": 2000,
+      "book": "12",
+      "sl": "452",
+      "info": "",
+      "year": 2025
+    },
+    {
+      "name": "Ranjith meeyapadavu",
+      "kannada": "ರಂಜಿತ್ ಮೀಯಪದವು",
+      "amount": 500,
+      "book": "12",
+      "sl": "453",
+      "info": "",
+      "year": 2025
+    }
+  ]
+}
